@@ -1,6 +1,5 @@
 # bank-loan-analysis
-# 📌 Project Overview
-
+#Project Overview:
 This project analyzes a bank loan dataset to identify the factors that influence loan approval and loan default. The analysis includes data cleaning, SQL exploration, Python visualizations, and interactive dashboards in Power BI and Excel.
 
 #🧰 Built With
