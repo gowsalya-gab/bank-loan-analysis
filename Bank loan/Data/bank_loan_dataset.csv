@@ -1,0 +1,1001 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Purpose,Interest_Rate,Application_Date,Loan_Status
+LN100000,Male,Yes,0,Graduate,No,5690,4770,20,60,1,Semiurban,Medical,10.97,07-06-2023,Fully Paid
+LN100001,Female,Yes,0,Not Graduate,No,2908,1654,12,240,,Semiurban,Auto,14.42,29-05-2024,Current
+LN100002,Female,No,3+,Graduate,No,8612,0,18,120,1,Rural,Education,13.05,10-10-2022,Charged Off
+LN100003,Female,No,0,Graduate,No,8284,3158,40,60,1,Urban,Education,11.2,26-03-2024,Charged Off
+LN100004,Male,No,0,Graduate,No,8544,0,24,180,0,Rural,Education,12.68,20-06-2023,Fully Paid
+LN100005,Male,No,2,Not Graduate,No,5203,1474,23,360,0,Semiurban,Personal,10.9,01-10-2022,Charged Off
+LN100006,Male,No,0,Not Graduate,No,5725,2583,25,120,1,Rural,Home,6,23-06-2023,Fully Paid
+LN100007,Female,No,2,Graduate,No,5659,1798,24,240,0,Urban,Home,6.03,23-02-2022,Fully Paid
+LN100008,Female,Yes,0,Graduate,No,10522,3732,43,84,1,Semiurban,Business,10.29,24-02-2022,Fully Paid
+LN100009,Female,Yes,0,Graduate,Yes,7597,1354,18,120,1,Rural,Home,10.44,06-06-2024,Fully Paid
+LN100010,Male,Yes,0,Graduate,Yes,7228,4738,18,240,1,Urban,Education,13.98,15-01-2024,Fully Paid
+LN100011,Female,,0,Graduate,No,9338,3664,,240,1,Urban,Business,13.65,04-10-2022,Fully Paid
+LN100012,Female,No,3+,Graduate,No,5666,0,5,60,1,Rural,Auto,13.12,19-03-2023,Fully Paid
+LN100013,Male,Yes,0,Graduate,No,-8095,0,18,60,1,Urban,Education,10.02,01-06-2024,Fully Paid
+LN100014,Male,No,0,Graduate,No,14117,4139,39,180,1,Rural,Auto,6.17,22-02-2023,Fully Paid
+LN100015,Male,No,0,Graduate,No,11156,3719,33,120,1,Urban,Home,12.44,24-09-2023,Fully Paid
+LN100016,Male,Yes,0,Graduate,No,8050,0,28,360,,Urban,Auto,12.84,13-08-2022,Fully Paid
+LN100017,Male,Yes,3+,Graduate,No,7327,5979,43,240,1,Rural,Personal,5,24-07-2023,Fully Paid
+LN100018,Male,No,0,Graduate,No,8517,2412,14,360,1,Semiurban,Business,8.08,12-09-2022,Fully Paid
+LN100019,Male,Yes,1,Not Graduate,No,11752,4795,30,120,1,Semiurban,Medical,8.58,25-06-2022,Fully Paid
+LN100020,Female,No,3+,Graduate,No,11426,0,22,120,1,Semiurban,Medical,11.41,20-07-2023,Fully Paid
+LN100021,Male,Yes,1,Graduate,No,12520,0,22,360,1,Rural,Business,8.19,26-05-2022,Fully Paid
+LN100022,Male,No,3+,Graduate,No,7753,5724,40,180,1,Urban,Personal,10.87,10-02-2024,Fully Paid
+LN100023,Male,,0,Graduate,No,3250,3196,14,60,1,Semiurban,Education,10.26,26-10-2023,Fully Paid
+LN100024,Male,No,0,Graduate,No,13712,4371,42,120,1,Urban,Personal,10.44,20-01-2023,Fully Paid
+LN100025,Female,Yes,0,Graduate,No,5322,2418,24,180,1,Semiurban,Auto,8.49,19-09-2022,Fully Paid
+LN100026,Male,No,2,Not Graduate,No,3381,0,10,84,1,Urban,Business,8.76,15-06-2023,Fully Paid
+LN100027,Male,No,,Graduate,No,9281,2281,13,240,1,Urban,Home,7.22,03-05-2024,Fully Paid
+LN100028,Female,Yes,0,Graduate,No,3271,1850,14,360,1,Semiurban,Business,12.33,06-01-2023,Fully Paid
+LN100029,Male,No,1,Graduate,No,7174,4580,23,180,1,Urban,Business,13,14-11-2023,Fully Paid
+LN100030,Female,Yes,0,Graduate,No,3256,2452,9,360,1,Urban,Medical,8.3,09-06-2024,Fully Paid
+LN100031,Male,Yes,1,Graduate,No,6310,7367,13,360,1,Semiurban,Business,16.32,16-07-2022,Fully Paid
+LN100032,Male,Yes,0,Graduate,Yes,12531,0,27,240,1,Semiurban,Home,9.9,08-08-2023,Fully Paid
+LN100033,Female,Yes,,Graduate,,8087,4950,23,360,1,Rural,Home,16.36,25-03-2024,Charged Off
+LN100034,Female,Yes,1,Graduate,No,7146,0,11,360,0,Semiurban,Home,8.75,20-08-2023,Charged Off
+LN100035,Female,No,0,Graduate,,8416,2366,29,240,0,Urban,Home,5,11-10-2022,Charged Off
+LN100036,Male,Yes,0,Graduate,,2607,744,10,300,1,Semiurban,Personal,12.41,29-10-2022,Charged Off
+LN100037,Male,No,0,Not Graduate,No,5620,5567,16,300,1,Urban,Business,11.87,12-05-2022,Fully Paid
+LN100038,Female,Yes,0,Graduate,No,5927,12340,17,180,1,Rural,Business,11.12,30-04-2022,Fully Paid
+LN100039,Male,Yes,0,Graduate,No,8907,4761,42,240,1,Rural,Personal,8.75,29-12-2023,Fully Paid
+LN100040,Male,Yes,2,Graduate,No,4915,2110,6,240,1,Semiurban,Home,10.88,16-05-2022,Fully Paid
+LN100041,Male,No,1,Not Graduate,No,7630,1386,30,240,1,Semiurban,Home,9.21,20-09-2023,Fully Paid
+LN100042,Male,Yes,0,Graduate,No,6897,2148,23,360,1,Urban,Home,9.94,27-07-2023,Fully Paid
+LN100043,Female,Yes,0,Graduate,No,5728,1929,13,300,0,Semiurban,Education,13.95,13-06-2023,Charged Off
+LN100044,Male,No,2,Graduate,No,5862,0,9,84,0,Rural,Personal,11.64,03-02-2022,Fully Paid
+LN100045,Female,Yes,1,Graduate,No,6874,0,6,180,1,Urban,Home,13.13,16-06-2023,Fully Paid
+LN100046,Male,Yes,0,Graduate,No,3540,2671,9,240,1,Urban,Education,10.19,27-07-2022,Fully Paid
+LN100047,Male,Yes,1,Graduate,No,9386,3428,15,360,1,Semiurban,Home,9.8,05-11-2023,Current
+LN100048,Male,No,0,Graduate,No,5309,1146,16,300,1,Semiurban,Personal,6.96,26-10-2022,Current
+LN100049,Male,Yes,0,Graduate,No,6453,3864,13,300,,Urban,Personal,9.7,06-06-2023,Fully Paid
+LN100050,Female,No,0,Graduate,No,12350,0,28,120,1,Rural,Personal,5,04-04-2022,Current
+LN100051,Female,Yes,0,Graduate,No,9447,3974,32,240,1,Urban,Education,8.93,18-02-2023,Fully Paid
+LN100052,Female,No,0,Graduate,No,4614,0,7,180,1,Urban,Medical,10.71,06-01-2023,Fully Paid
+LN100053,Female,No,3+,Graduate,No,2493,0,2,84,0,Semiurban,Home,12.97,13-02-2023,Current
+LN100054,F,,2,Graduate,No,8549,1469,9,240,0,Urban,Personal,10.06,18-01-2023,Charged Off
+LN100055,Female,Yes,1,Not Graduate,Yes,6545,1850,7,60,1,Semiurban,Auto,12.22,17-03-2023,Fully Paid
+LN100056,Male,No,0,Graduate,No,7647,3565,31,360,1,Urban,Personal,5,27-05-2024,Fully Paid
+LN100057,Male,Yes,0,Graduate,Yes,9329,5775,25,240,1,Urban,Medical,10.8,23-03-2023,Charged Off
+LN100058,Male,Yes,1,Graduate,No,9881,0,29,300,1,Urban,Education,5.12,11-09-2023,Fully Paid
+LN100059,Male,Yes,0,Not Graduate,,6091,1828,16,360,,Rural,Personal,6.77,09-09-2023,Charged Off
+LN100060,Male,No,0,Graduate,No,6833,0,14,60,1,Semiurban,Home,10.34,12-03-2022,Fully Paid
+LN100061,Male,,0,Graduate,No,8182,5346,30,180,,Rural,Personal,15.47,25-03-2022,Charged Off
+LN100062,Female,No,2,Graduate,No,8379,4377,35,240,1,Urban,Home,12.3,28-07-2022,Fully Paid
+LN100063,Male,Yes,0,Graduate,No,7620,0,12,240,0,Semiurban,Home,11.06,16-09-2022,Charged Off
+LN100064,Male,Yes,0,Graduate,No,11809,3365,17,120,1,Semiurban,Personal,10.93,27-08-2022,Fully Paid
+LN100065,Male,No,2,Graduate,Yes,8345,0,19,300,,Rural,Personal,8.5,29-10-2022,Fully Paid
+LN100066,Male,Yes,0,Graduate,Yes,9277,0,16,60,1,Semiurban,Home,9.1,20-08-2022,Current
+LN100067,Female,Yes,0,Not Graduate,,7855,0,16,240,1,Semiurban,Auto,12.5,09-10-2022,Fully Paid
+LN100068,Male,Yes,0,Graduate,No,4902,3345,21,360,0,Urban,Personal,6.15,29-01-2023,Current
+LN100069,,Yes,0,Graduate,No,5614,1442,15,360,1,Semiurban,Home,13.08,22-02-2023,Fully Paid
+LN100070,Female,Yes,2,Graduate,No,4548,1613,15,240,1,Semiurban,Personal,9.64,25-07-2022,Fully Paid
+LN100071,Male,Yes,0,Graduate,No,10300,5748,36,120,,Rural,Auto,13.89,21-09-2022,Charged Off
+LN100072,Male,Yes,0,Graduate,No,3985,0,11,360,1,Urban,Personal,14.36,07-11-2022,Charged Off
+LN100073,Female,Yes,2,Graduate,No,6732,1735,23,60,1,Urban,Education,5.14,08-05-2024,Fully Paid
+LN100074,Female,,2,Graduate,No,6210,3145,21,360,1,Semiurban,Education,8.96,28-11-2023,Fully Paid
+LN100075,Female,Yes,2,Not Graduate,No,6152,0,16,120,0,Urban,Personal,8.01,18-09-2023,Charged Off
+LN100076,Female,Yes,0,Not Graduate,No,6344,3344,31,180,1,Urban,Medical,5,20-03-2022,Fully Paid
+LN100077,Male,No,0,Graduate,No,12676,1551,28,120,1,Rural,Auto,7.39,18-05-2024,Fully Paid
+LN100078,Male,Yes,,Graduate,No,3462,0,7,300,1,Semiurban,Home,19.54,08-12-2022,Fully Paid
+LN100079,Male,No,2,Not Graduate,No,11232,4237,44,360,1,Rural,Personal,13.13,23-03-2024,Fully Paid
+LN100080,Female,No,0,Graduate,No,6538,3264,23,120,1,Rural,Business,17.71,16-07-2023,Fully Paid
+LN100081,Female,Yes,0,Not Graduate,No,9636,0,10,360,1,Urban,Home,13.9,11-04-2024,Current
+LN100082,Male,Yes,0,Graduate,No,7309,1283,28,300,1,Semiurban,Medical,8.4,05-04-2022,Fully Paid
+LN100083,Male,No,3+,Graduate,No,4707,2357,6,360,1,Urban,Medical,9.66,09-02-2024,Fully Paid
+LN100084,Male,No,0,Graduate,No,11648,0,33,84,1,Rural,Home,13.06,17-12-2022,Current
+LN100085,Male,Yes,0,Graduate,Yes,10949,4071,43,120,1,Semiurban,Medical,12.53,03-03-2022,Charged Off
+LN100086,Female,Yes,0,Graduate,Yes,4828,0,16,60,1,Semiurban,Education,8.98,22-05-2022,Fully Paid
+LN100087,Female,Yes,1,Graduate,No,8789,0,8,120,1,Urban,Business,5.72,21-04-2024,Fully Paid
+LN100088,Female,,2,Graduate,No,5705,2068,19,240,1,Semiurban,Education,22.51,04-01-2024,Fully Paid
+LN100089,Male,Yes,0,Graduate,Yes,4041,0,8,60,1,Urban,Education,10.51,17-05-2024,Fully Paid
+LN100090,Male,No,2,Graduate,No,5313,7593,22,60,1,Urban,Personal,9.86,21-04-2022,Fully Paid
+LN100091,Female,Yes,3+,Not Graduate,No,11383,2991,15,300,1,Rural,Auto,11.4,08-09-2023,Fully Paid
+LN100092,Female,Yes,0,Graduate,No,9725,0,23,300,1,Rural,Home,10.15,11-06-2023,Charged Off
+LN100093,Male,Yes,0,Not Graduate,No,6371,1371,16,360,1,Urban,Personal,11.43,21-02-2024,Fully Paid
+LN100094,Female,Yes,0,Graduate,No,11404,1914,14,360,1,Semiurban,Home,15.5,02-11-2023,Fully Paid
+LN100095,Male,Yes,2,Graduate,No,10627,7464,44,120,1,Rural,Education,10.56,06-06-2022,Charged Off
+LN100096,Male,Yes,1,Not Graduate,Yes,5316,1913,20,360,,Urban,Education,6.93,23-06-2023,Fully Paid
+LN100097,Male,Yes,1,Graduate,Yes,12475,0,36,300,1,Rural,Personal,10.43,20-08-2023,Charged Off
+LN100098,Male,No,2,Graduate,No,6188,0,20,300,1,Urban,Education,9.37,09-01-2022,Fully Paid
+LN100099,Male,Yes,0,Graduate,Yes,6494,3100,18,240,1,Semiurban,Home,15.98,03-10-2022,Fully Paid
+LN100100,Male,Yes,3+,Graduate,No,3490,2270,19,300,1,Semiurban,Home,15.1,15-08-2022,Fully Paid
+LN100101,Female,No,0,Graduate,No,5667,1719,23,84,1,Semiurban,Home,11.38,05-07-2022,Charged Off
+LN100102,Male,No,0,Not Graduate,No,6751,3763,17,300,1,Rural,Personal,6.52,14-08-2023,Fully Paid
+LN100103,Male,No,1,Graduate,No,7936,4787,16,84,0,Urban,Medical,6.71,04-08-2022,Charged Off
+LN100104,Female,,2,Graduate,No,4713,1203,12,180,1,Urban,Home,11.05,09-03-2023,Fully Paid
+LN100105,Male,Yes,0,Graduate,No,5402,3912,18,360,1,Semiurban,Medical,12.18,23-07-2023,Fully Paid
+LN100106,Male,Yes,2,Graduate,,12584,0,30,360,1,Rural,Auto,9.69,18-10-2023,Fully Paid
+LN100107,Female,No,3+,Graduate,Yes,10358,2489,31,360,1,Urban,Personal,9.32,22-12-2022,Fully Paid
+LN100108,Male,No,0,Graduate,No,11086,0,31,360,1,Rural,Personal,8.93,22-04-2024,Fully Paid
+LN100109,Male,Yes,,Graduate,No,6956,0,15,300,1,Semiurban,Business,10.92,27-01-2023,Charged Off
+LN100110,Male,No,0,Graduate,No,8022,0,9,60,1,Urban,Home,5,02-08-2023,Fully Paid
+LN100111,Male,Yes,0,Graduate,No,8862,4552,42,360,1,Rural,Personal,7.15,02-10-2022,Fully Paid
+LN100112,Female,Yes,0,Graduate,Yes,12511,3453,26,120,0,Urban,Auto,8.81,09-05-2023,Charged Off
+LN100113,Female,Yes,3+,Graduate,Yes,4013,0,14,360,1,Semiurban,Personal,15.23,09-09-2023,Fully Paid
+LN100114,Female,Yes,1,Graduate,No,5868,1791,9,240,1,Urban,Business,8.15,27-03-2023,Charged Off
+LN100115,Female,Yes,0,Not Graduate,No,7755,0,26,180,1,Urban,Home,11.63,24-02-2023,Fully Paid
+LN100116,Female,Yes,0,Graduate,No,7326,0,8,60,1,Semiurban,Auto,11.79,01-12-2023,Fully Paid
+LN100117,Male,No,1,Graduate,No,5378,4968,15,240,0,Semiurban,Personal,15.54,13-06-2022,Current
+LN100118,Female,Yes,0,Graduate,No,8578,0,8,360,1,Semiurban,Education,15.42,18-02-2024,Fully Paid
+LN100119,Male,Yes,3+,Graduate,No,5951,3577,26,180,1,Semiurban,Education,10.8,17-07-2023,Charged Off
+LN100120,Female,No,2,Graduate,No,7133,0,22,120,1,Urban,Personal,9.34,30-09-2023,Fully Paid
+LN100121,Female,No,0,Graduate,No,8438,2069,,300,1,Semiurban,Business,8.68,15-08-2023,Fully Paid
+LN100122,Male,No,3+,Graduate,No,6051,2394,28,120,1,Rural,Personal,10.16,02-07-2022,Fully Paid
+LN100123,Male,No,0,Graduate,No,9420,6824,39,360,1,Rural,Business,9.48,06-11-2022,Fully Paid
+LN100124,Male,No,,Graduate,No,10065,2790,32,180,,Urban,Education,12.94,17-01-2022,Fully Paid
+LN100125,Male,Yes,1,Graduate,No,5449,4444,30,240,0,Urban,Home,12.47,22-03-2023,Charged Off
+LN100126,Female,Yes,1,Graduate,No,5936,0,10,120,1,Rural,Home,13.07,19-06-2022,Fully Paid
+LN100127,Female,Yes,0,Graduate,,4950,2195,13,180,1,Semiurban,Home,15.41,07-10-2022,Fully Paid
+LN100128,Male,Yes,3+,Not Graduate,No,7075,2991,33,360,1,Semiurban,Education,17.52,26-03-2024,Fully Paid
+LN100129,Male,Yes,0,Not Graduate,Yes,7934,3777,38,180,1,Rural,Education,11.44,06-12-2022,Fully Paid
+LN100130,Male,No,0,Not Graduate,No,6257,3115,32,360,1,Urban,Auto,14.85,27-12-2023,Fully Paid
+LN100131,Male,Yes,0,Not Graduate,No,7852,2142,32,60,1,Semiurban,Auto,9.77,11-12-2023,Charged Off
+LN100132,Male,Yes,1,Not Graduate,No,5880,6834,15,360,1,Rural,Home,15.15,03-06-2023,Fully Paid
+LN100133,Male,Yes,0,Graduate,No,5948,3471,28,360,1,Semiurban,Home,14.72,11-01-2022,Fully Paid
+LN100134,Female,No,1,Graduate,No,8084,0,15,120,0,Urban,Home,14.53,08-06-2023,Charged Off
+LN100135,Male,Yes,3+,Graduate,Yes,6087,0,21,180,0,Urban,Personal,11.33,14-09-2023,Charged Off
+LN100136,Male,No,0,Graduate,No,6937,0,14,60,1,Urban,Home,8.66,13-05-2022,Fully Paid
+LN100137,Female,Yes,2,Graduate,No,8189,4351,29,360,0,Rural,Home,6.12,02-10-2023,Fully Paid
+LN100138,Male,Yes,0,Graduate,No,7811,7003,33,360,1,Urban,Medical,10.86,28-05-2022,Fully Paid
+LN100139,,Yes,2,Graduate,No,2911,3254,10,360,1,Urban,Business,16.37,20-07-2023,Fully Paid
+LN100140,Female,No,2,Graduate,No,5910,4741,11,240,1,Rural,Home,9.92,02-04-2024,Fully Paid
+LN100141,Male,Yes,0,Not Graduate,Yes,10453,0,34,120,1,Urban,Education,13.75,20-03-2022,Fully Paid
+LN100142,Male,No,1,Graduate,Yes,3942,2699,20,360,,Urban,Education,13.95,12-12-2022,Fully Paid
+LN100143,Male,Yes,0,Graduate,No,2361,0,3,360,1,Urban,Auto,10.01,01-09-2023,Charged Off
+LN100144,Male,Yes,0,Graduate,No,8714,2714,33,300,0,Urban,Personal,15.61,06-09-2022,Fully Paid
+LN100145,Male,No,2,Graduate,No,7755,0,19,60,1,Semiurban,Home,5,01-10-2023,Fully Paid
+LN100146,Female,No,0,Not Graduate,Yes,4722,0,9,240,1,Rural,Auto,6.72,26-06-2023,Fully Paid
+LN100147,Male,No,0,Graduate,No,7391,2046,14,180,1,Rural,Education,7.8,24-01-2022,Current
+LN100148,Male,No,0,Not Graduate,No,5628,0,18,60,1,Semiurban,Home,8.13,16-04-2023,Fully Paid
+LN100149,Male,No,2,Graduate,No,8480,0,23,360,1,Semiurban,Education,12.18,20-07-2022,Fully Paid
+LN100150,Female,No,0,Graduate,Yes,2480,2842,12,300,1,Semiurban,Personal,12.02,11-05-2022,Fully Paid
+LN100151,Male,No,0,Graduate,Yes,6461,0,16,120,1,Urban,Education,12.38,26-09-2023,Fully Paid
+LN100152,Male,No,1,Graduate,No,5817,2567,9,180,1,Urban,Home,13.09,22-12-2022,Fully Paid
+LN100153,Male,No,2,Graduate,No,9433,0,20,360,1,Rural,Education,7.67,18-04-2024,Fully Paid
+LN100154,,Yes,0,Graduate,No,3530,1922,7,240,1,Urban,Home,6.74,30-05-2022,Fully Paid
+LN100155,Male,No,0,Graduate,Yes,7218,0,10,360,1,Urban,Auto,12.39,10-06-2023,Fully Paid
+LN100156,Female,Yes,0,Not Graduate,No,8675,2443,29,84,1,Semiurban,Home,8.79,31-10-2022,Fully Paid
+LN100157,Female,No,0,Graduate,No,13423,0,44,360,1,Semiurban,Home,5.5,25-06-2023,Fully Paid
+LN100158,Male,No,0,Not Graduate,,5941,4958,21,240,0,Urban,Auto,14.4,19-02-2022,Fully Paid
+LN100159,Female,Yes,2,Graduate,No,7983,3069,15,360,1,Urban,Auto,15.88,09-04-2023,Current
+LN100160,Male,No,1,Graduate,No,3604,4518,21,240,1,Urban,Business,16.45,28-08-2022,Fully Paid
+LN100161,Female,Yes,1,Graduate,Yes,7085,675,24,180,0,Semiurban,Personal,11.65,27-04-2023,Fully Paid
+LN100162,Female,Yes,0,Graduate,No,10744,0,30,120,0,Urban,Home,13.19,31-03-2023,Fully Paid
+LN100163,Male,No,2,Graduate,No,13475,0,42,240,0,Semiurban,Auto,15.79,10-10-2022,Fully Paid
+LN100164,Male,Yes,0,Graduate,No,8259,3543,27,60,1,Semiurban,Auto,8.76,01-12-2022,Fully Paid
+LN100165,Female,No,,Graduate,No,-3935,0,11,180,1,Rural,Home,14.89,18-12-2022,Fully Paid
+LN100166,Male,No,1,Not Graduate,No,11400,1859,16,180,1,Urban,Business,11.96,30-10-2023,Fully Paid
+LN100167,Male,Yes,0,Graduate,Yes,3946,0,7,84,1,Urban,Home,14.2,11-10-2023,Fully Paid
+LN100168,Male,Yes,1,Graduate,No,4565,0,8,120,0,Semiurban,Medical,11.65,23-11-2022,Fully Paid
+LN100169,Female,Yes,0,Graduate,Yes,11775,2899,32,360,1,Semiurban,Business,15.54,02-12-2022,Fully Paid
+LN100170,Female,Yes,1,Graduate,No,6899,1551,28,240,1,Urban,Auto,11.78,28-10-2023,Current
+LN100171,Male,,0,Graduate,,5705,1915,24,120,1,Semiurban,Medical,5.81,22-03-2022,Fully Paid
+LN100172,Male,Yes,0,Graduate,No,9113,0,11,60,1,Urban,Auto,16.08,28-03-2022,Current
+LN100173,Male,Yes,2,Graduate,No,7536,2871,13,120,1,Urban,Home,7.68,15-02-2024,Fully Paid
+LN100174,Female,Yes,0,Graduate,No,10375,0,18,300,1,Semiurban,Education,15.39,15-09-2022,Fully Paid
+LN100175,Male,Yes,2,Graduate,,7664,3517,18,180,0,Urban,Home,10.68,04-07-2022,Charged Off
+LN100176,Female,No,0,Graduate,No,7728,0,19,120,,Rural,Education,15.12,23-11-2023,Fully Paid
+LN100177,Male,Yes,1,Not Graduate,No,10235,0,33,120,1,Semiurban,Auto,14.97,29-11-2023,Fully Paid
+LN100178,Female,No,1,Not Graduate,No,6865,0,23,120,1,Semiurban,Education,12.51,03-05-2022,Current
+LN100179,Male,Yes,0,Graduate,No,5099,0,13,120,1,Semiurban,Education,12.78,07-06-2024,Current
+LN100180,Male,No,0,Graduate,No,9308,0,29,360,1,Semiurban,Personal,12.48,06-04-2022,Fully Paid
+LN100181,Male,Yes,0,Graduate,No,6377,5257,26,300,0,Urban,Business,5,28-08-2023,Fully Paid
+LN100182,Female,Yes,0,Graduate,No,7888,3818,16,240,1,Rural,Home,11.41,30-05-2023,Fully Paid
+LN100183,Female,No,0,Graduate,No,3356,3564,15,240,1,Rural,Education,7.09,19-03-2023,Fully Paid
+LN100184,Male,Yes,1,Graduate,Yes,6764,1654,19,60,1,Urban,Home,11.6,29-05-2023,Fully Paid
+LN100185,Female,No,3+,Graduate,No,5849,0,16,60,1,Urban,Auto,7,06-01-2023,Fully Paid
+LN100186,Female,No,2,Graduate,Yes,3323,1962,7,360,1,Urban,Home,6.85,01-11-2022,Fully Paid
+LN100187,Male,Yes,2,Graduate,No,6841,3009,18,60,1,Semiurban,Auto,16.62,23-12-2022,Fully Paid
+LN100188,Male,Yes,2,Not Graduate,No,6925,5624,22,240,1,Semiurban,Home,14.74,28-05-2022,Fully Paid
+LN100189,Male,No,1,Not Graduate,No,8097,0,27,240,1,Rural,Home,10.99,12-10-2022,Charged Off
+LN100190,Male,Yes,0,Graduate,No,10675,0,21,360,1,Rural,Medical,11.65,19-10-2023,Fully Paid
+LN100191,Female,Yes,3+,Not Graduate,No,10020,1965,34,360,0,Semiurban,Home,10.13,21-04-2024,Fully Paid
+LN100192,Female,Yes,1,Not Graduate,No,5995,3021,25,300,1,Semiurban,Education,12.99,22-05-2024,Fully Paid
+LN100193,Female,Yes,1,Graduate,No,7595,0,12,240,1,Semiurban,Home,8.63,19-09-2022,Fully Paid
+LN100194,Male,Yes,0,Graduate,No,8524,0,20,84,1,Semiurban,Personal,14.48,28-07-2023,Fully Paid
+LN100195,Male,No,0,Graduate,No,6056,0,19,360,1,Semiurban,Personal,10.11,06-05-2023,Fully Paid
+LN100196,Female,,0,Not Graduate,Yes,4066,0,8,240,1,Semiurban,Education,9.53,08-01-2024,Fully Paid
+LN100197,Female,No,2,Not Graduate,No,6576,2617,31,360,,Semiurban,Home,11.08,31-01-2022,Charged Off
+LN100198,Female,No,0,Graduate,No,10846,0,15,180,1,Semiurban,Education,8.93,03-12-2023,Current
+LN100199,Female,Yes,0,Graduate,No,4000,0,4,120,1,Semiurban,Auto,12.15,05-06-2024,Charged Off
+LN100200,Female,No,,Graduate,No,4915,3182,26,240,1,Semiurban,Auto,9.12,25-09-2022,Fully Paid
+LN100201,Male,Yes,0,Graduate,No,5286,0,16,240,1,Semiurban,Personal,12.64,12-01-2022,Fully Paid
+LN100202,Male,Yes,0,Graduate,Yes,4935,2436,26,120,1,Semiurban,Personal,15.26,10-07-2022,Fully Paid
+LN100203,Female,Yes,0,Not Graduate,,9128,0,24,360,0,Semiurban,Home,8.48,04-02-2023,Current
+LN100204,Female,Yes,2,Graduate,Yes,5620,0,19,240,1,Semiurban,Home,10.54,21-06-2023,Fully Paid
+LN100205,Male,No,3+,Not Graduate,No,9219,0,28,300,1,Urban,Home,12.61,01-04-2022,Charged Off
+LN100206,Male,No,0,Not Graduate,No,7215,0,22,120,1,Urban,Home,9.47,23-08-2023,Fully Paid
+LN100207,Female,Yes,2,Graduate,No,3684,0,9,180,1,Semiurban,Home,12.63,23-04-2024,Fully Paid
+LN100208,Male,Yes,0,Graduate,Yes,6104,0,11,60,1,Semiurban,Personal,12.94,16-05-2023,Current
+LN100209,M,,3+,Graduate,Yes,10133,1992,40,360,1,Rural,Personal,14.79,25-02-2024,Fully Paid
+LN100210,Male,Yes,2,Graduate,Yes,7510,1455,18,84,1,Urban,Medical,8.88,28-10-2022,Charged Off
+LN100211,Female,Yes,2,Graduate,No,6272,3756,23,84,1,Semiurban,Home,7.7,21-04-2022,Fully Paid
+LN100212,Female,Yes,0,Graduate,No,10896,1606,25,240,1,Urban,Personal,9.92,21-03-2022,Current
+LN100213,Male,No,3+,Graduate,No,4746,4481,21,180,0,Urban,Business,7.61,15-04-2024,Fully Paid
+LN100214,Female,No,1,Graduate,No,5693,2596,17,60,1,Rural,Personal,12.98,14-10-2023,Fully Paid
+LN100215,Male,Yes,0,Graduate,No,9773,3752,13,84,1,Urban,Home,6.93,09-03-2023,Fully Paid
+LN100216,Male,Yes,2,Graduate,Yes,9058,6364,49,360,1,Semiurban,Home,19.17,21-02-2023,Fully Paid
+LN100217,Female,No,0,Graduate,No,4610,1249,12,360,1,Semiurban,Home,15.54,02-08-2022,Fully Paid
+LN100218,Female,No,2,Graduate,No,8417,0,20,360,1,Semiurban,Education,11.04,23-03-2023,Fully Paid
+LN100219,Female,Yes,0,Graduate,No,5587,0,7,240,1,Rural,Auto,14.04,18-01-2022,Fully Paid
+LN100220,Female,No,1,Graduate,No,3273,1083,4,300,0,Semiurban,Home,5.27,23-02-2022,Current
+LN100221,Male,Yes,0,Graduate,No,6316,2071,12,360,1,Urban,Home,19.83,29-05-2024,Charged Off
+LN100222,Male,Yes,0,Graduate,No,13821,0,37,360,1,Rural,Auto,8.93,01-09-2023,Fully Paid
+LN100223,Male,No,0,Graduate,No,10199,3147,14,120,1,Rural,Auto,10.58,05-03-2024,Fully Paid
+LN100224,Male,Yes,0,Graduate,No,6978,0,23,240,1,Urban,Personal,5,16-01-2024,Fully Paid
+LN100225,Male,Yes,0,Not Graduate,No,3918,2116,8,120,1,Urban,Auto,12.7,28-08-2022,Fully Paid
+LN100226,,Yes,0,Graduate,No,3306,4185,10,180,1,Urban,Education,7.13,25-04-2024,Fully Paid
+LN100227,Male,Yes,1,Graduate,No,7224,1551,11,60,1,Urban,Home,11.36,22-02-2023,Charged Off
+LN100228,Female,,0,Graduate,No,8214,2477,9,120,1,Rural,Education,9.1,05-05-2024,Fully Paid
+LN100229,Female,Yes,0,Graduate,No,9168,0,26,180,1,Semiurban,Personal,7.23,01-05-2023,Fully Paid
+LN100230,Female,No,2,Graduate,No,8777,2421,35,240,1,Urban,Medical,8.18,20-03-2023,Fully Paid
+LN100231,Male,Yes,0,Graduate,No,-9054,0,22,360,1,Rural,Home,11.79,20-07-2023,Fully Paid
+LN100232,Male,Yes,3+,Graduate,No,7848,9585,23,300,1,Semiurban,Personal,6.51,22-08-2023,Fully Paid
+LN100233,Male,Yes,2,Graduate,No,10805,0,17,180,1,Urban,Education,8.38,12-02-2024,Fully Paid
+LN100234,Male,No,1,Graduate,Yes,5844,8666,30,180,1,Rural,Personal,13.32,18-01-2024,Fully Paid
+LN100235,Female,Yes,1,Graduate,No,7184,1766,30,180,1,Rural,Home,20.11,03-05-2022,Charged Off
+LN100236,Male,No,3+,Graduate,Yes,3688,0,5,300,1,Rural,Education,12.67,24-02-2023,Current
+LN100237,Male,Yes,0,Not Graduate,No,5800,0,16,180,1,Semiurban,Business,7.79,20-07-2023,Fully Paid
+LN100238,Female,No,0,Graduate,No,10093,6602,33,84,1,Rural,Personal,9.72,04-08-2022,Current
+LN100239,Male,Yes,0,Graduate,No,8947,0,14,300,,Urban,Personal,11.11,24-02-2023,Charged Off
+LN100240,Female,No,2,Graduate,No,2927,0,6,120,1,Semiurban,Home,9.78,10-12-2023,Fully Paid
+LN100241,Female,No,0,Graduate,No,14236,0,14,360,1,Rural,Home,14.16,05-07-2023,Fully Paid
+LN100242,Female,No,1,Graduate,No,7517,5415,38,240,1,Urban,Education,11.76,26-05-2024,Fully Paid
+LN100243,Male,No,,Graduate,No,7569,4088,17,360,1,Rural,Business,14.18,16-08-2022,Fully Paid
+LN100244,Male,No,2,Graduate,No,5668,431,17,180,1,Semiurban,Medical,9.9,25-08-2022,Fully Paid
+LN100245,Female,Yes,0,Graduate,No,6115,0,6,300,1,Urban,Education,15.64,06-10-2023,Fully Paid
+LN100246,Male,Yes,0,Graduate,No,7486,1488,30,360,1,Rural,Education,10.42,26-11-2022,Fully Paid
+LN100247,Female,Yes,2,Graduate,Yes,8758,3487,16,60,0,Urban,Business,7.6,12-04-2024,Fully Paid
+LN100248,Female,No,1,Not Graduate,No,7983,0,25,180,1,Semiurban,Education,18.62,14-04-2023,Current
+LN100249,Female,Yes,0,Graduate,,5829,3913,29,240,1,Urban,Personal,5,11-11-2023,Fully Paid
+LN100250,Male,No,0,Graduate,No,5074,0,17,300,1,Rural,Home,8.41,02-05-2023,Fully Paid
+LN100251,Male,Yes,3+,Graduate,Yes,4953,0,10,60,0,Urban,Auto,8.81,03-07-2023,Fully Paid
+LN100252,Female,Yes,1,Graduate,No,-10392,2149,35,60,,Urban,Personal,19.78,02-08-2023,Charged Off
+LN100253,Male,Yes,2,Graduate,No,9916,0,18,120,1,Urban,Business,17.32,15-09-2023,Fully Paid
+LN100254,Male,No,2,Graduate,No,8460,3801,16,120,1,Rural,Auto,16.23,19-02-2023,Charged Off
+LN100255,Male,Yes,1,Graduate,No,10363,2428,26,300,1,Semiurban,Home,9.84,07-08-2022,Fully Paid
+LN100256,Female,Yes,0,Graduate,,6781,4124,14,120,1,Semiurban,Auto,19.49,22-12-2023,Fully Paid
+LN100257,Female,Yes,0,Graduate,No,9594,2606,42,240,1,Semiurban,Business,12.29,16-01-2023,Current
+LN100258,Male,Yes,0,Graduate,No,8622,0,9,120,1,Semiurban,Education,14.42,28-03-2022,Fully Paid
+LN100259,Male,Yes,0,Not Graduate,No,9692,0,23,360,0,Urban,Home,11.63,06-04-2023,Fully Paid
+LN100260,Female,Yes,2,Graduate,Yes,4779,1438,15,84,1,Semiurban,Home,10.83,25-03-2024,Fully Paid
+LN100261,,No,1,Graduate,No,2799,0,6,84,0,Urban,Personal,10.12,15-02-2023,Charged Off
+LN100262,Male,Yes,3+,Graduate,No,7807,0,20,240,1,Rural,Education,10.27,22-11-2023,Fully Paid
+LN100263,Male,Yes,0,Graduate,No,6238,3892,11,300,1,Rural,Personal,13.13,09-06-2023,Fully Paid
+LN100264,Female,Yes,1,Not Graduate,No,3093,0,7,60,1,Semiurban,Home,12.29,23-03-2023,Charged Off
+LN100265,Female,Yes,1,Graduate,No,11025,3115,22,120,1,Urban,Business,10.89,27-10-2022,Fully Paid
+LN100266,Female,Yes,1,Graduate,No,9927,5280,51,360,1,Rural,Home,16.28,12-02-2023,Fully Paid
+LN100267,Female,Yes,1,Graduate,Yes,8058,0,23,240,1,Urban,Home,5,29-09-2023,Fully Paid
+LN100268,Male,Yes,0,Graduate,No,5184,0,18,180,1,Urban,Personal,12.78,10-01-2023,Fully Paid
+LN100269,Male,Yes,0,Graduate,,3635,0,3,240,1,Urban,Personal,13.51,21-08-2022,Fully Paid
+LN100270,Female,No,0,Graduate,No,3079,0,5,120,1,Semiurban,Home,15.01,02-02-2024,Fully Paid
+LN100271,Female,No,0,Graduate,,5785,2209,11,360,1,Rural,Home,10.77,17-06-2024,Fully Paid
+LN100272,Female,No,0,Graduate,No,9104,0,8,180,1,Urban,Home,11.73,30-09-2023,Fully Paid
+LN100273,Female,Yes,1,Graduate,No,6262,2773,13,240,1,Urban,Auto,14.45,17-01-2024,Charged Off
+LN100274,Male,Yes,3+,Not Graduate,No,8499,0,22,120,1,Semiurban,Auto,16.22,12-10-2023,Fully Paid
+LN100275,Male,Yes,1,Not Graduate,No,8655,4598,19,60,1,Semiurban,Personal,9.95,18-02-2022,Fully Paid
+LN100276,Female,Yes,2,Not Graduate,No,9054,4850,30,300,0,Urban,Auto,11.93,10-06-2024,Fully Paid
+LN100277,Female,,0,Graduate,No,3430,4741,26,300,0,Urban,Auto,16.88,05-07-2022,Charged Off
+LN100278,Female,Yes,1,Graduate,Yes,5349,1109,17,300,1,Rural,Home,5,24-07-2022,Fully Paid
+LN100279,Female,Yes,0,Not Graduate,No,8440,3280,22,240,,Rural,Medical,8.58,19-03-2022,Charged Off
+LN100280,Female,Yes,0,Graduate,No,11944,658,23,180,0,Rural,Business,16.13,26-04-2023,Fully Paid
+LN100281,Male,No,0,Graduate,No,10640,9328,41,360,0,Rural,Home,14.82,21-01-2023,Fully Paid
+LN100282,Male,Yes,0,Not Graduate,No,7904,4536,16,120,1,Urban,Home,12.83,13-07-2022,Fully Paid
+LN100283,Male,Yes,0,Not Graduate,Yes,11070,0,28,120,1,Urban,Home,9.43,13-04-2022,Fully Paid
+LN100284,Male,Yes,0,Graduate,No,7882,0,14,360,1,Urban,Home,7.91,09-09-2023,Fully Paid
+LN100285,Male,Yes,0,Graduate,No,3964,0,12,180,1,Urban,Auto,8.93,11-01-2023,Charged Off
+LN100286,Male,Yes,,Graduate,No,8997,0,26,240,1,Rural,Personal,16.42,14-10-2022,Fully Paid
+LN100287,Male,Yes,0,Not Graduate,No,10780,6079,41,300,1,Rural,Auto,8.8,15-04-2024,Fully Paid
+LN100288,Male,Yes,0,Not Graduate,No,13392,4466,32,240,1,Semiurban,Auto,11.35,27-04-2023,Fully Paid
+LN100289,Female,Yes,0,Graduate,No,5726,1535,10,360,1,Urban,Personal,8.36,24-12-2023,Fully Paid
+LN100290,Male,Yes,1,Graduate,No,4605,835,16,360,1,Rural,Auto,13.95,07-09-2022,Fully Paid
+LN100291,Male,Yes,0,Not Graduate,Yes,9605,0,20,360,1,Rural,Home,9.11,15-03-2024,Fully Paid
+LN100292,Female,Yes,0,Graduate,No,8254,3164,16,360,,Urban,Education,10.66,20-07-2022,Charged Off
+LN100293,Male,No,0,Graduate,No,7980,0,11,180,1,Rural,Personal,5.11,20-06-2023,Fully Paid
+LN100294,Male,No,0,Not Graduate,No,11130,1829,16,240,1,Urban,Home,5.35,06-04-2023,Charged Off
+LN100295,Male,Yes,0,Graduate,No,9591,0,28,240,1,Urban,Home,11.03,27-10-2022,Fully Paid
+LN100296,Female,Yes,0,Graduate,No,8541,0,12,240,1,Semiurban,Business,6.36,23-04-2023,Fully Paid
+LN100297,Male,Yes,0,Graduate,No,5987,2996,20,84,1,Semiurban,Auto,18.37,24-03-2022,Fully Paid
+LN100298,Female,Yes,0,Graduate,No,9299,0,19,360,0,Urban,Home,5,19-03-2024,Fully Paid
+LN100299,Male,No,0,Not Graduate,No,4539,847,13,180,1,Urban,Auto,8.2,03-04-2023,Fully Paid
+LN100300,Male,Yes,2,Graduate,Yes,7874,972,28,120,1,Rural,Auto,11.06,22-11-2023,Fully Paid
+LN100301,Male,No,1,Not Graduate,No,7012,0,22,120,1,Semiurban,Education,9.72,25-10-2022,Fully Paid
+LN100302,Male,Yes,0,Graduate,No,3899,0,8,180,1,Semiurban,Home,7.14,30-12-2022,Fully Paid
+LN100303,Female,Yes,0,Graduate,No,8262,0,7,120,1,Urban,Medical,7.65,19-12-2023,Fully Paid
+LN100304,Female,No,3+,Graduate,No,5731,2967,17,300,1,Urban,Education,7.53,09-02-2022,Fully Paid
+LN100305,,No,0,Graduate,Yes,8188,1435,23,60,1,Urban,Home,10,26-03-2024,Charged Off
+LN100306,Male,No,0,Graduate,No,4966,4360,22,360,1,Urban,Personal,17.83,17-09-2023,Fully Paid
+LN100307,Male,No,1,Graduate,No,9627,2914,32,180,1,Urban,Auto,11.27,06-12-2022,Fully Paid
+LN100308,Female,Yes,0,Graduate,No,12670,2743,19,240,1,Urban,Home,15.14,31-05-2023,Current
+LN100309,Male,No,0,Graduate,No,4539,0,12,300,0,Semiurban,Home,12.77,18-04-2022,Fully Paid
+LN100310,Male,Yes,0,Graduate,No,4964,2802,10,360,1,Urban,Home,14.9,12-11-2022,Fully Paid
+LN100311,Male,No,2,Graduate,,4274,0,12,360,0,Rural,Medical,5,24-04-2022,Charged Off
+LN100312,Male,Yes,0,Graduate,Yes,6563,4109,18,60,1,Urban,Home,9.93,16-06-2022,Fully Paid
+LN100313,Female,No,1,Graduate,No,8142,0,22,300,1,Semiurban,Personal,15.57,18-09-2022,Fully Paid
+LN100314,Female,Yes,,Graduate,,9087,3482,12,360,1,Urban,Medical,9,10-09-2023,Fully Paid
+LN100315,Female,Yes,0,Graduate,No,7817,2691,20,120,1,Semiurban,Home,17.17,12-08-2022,Fully Paid
+LN100316,Male,Yes,0,Graduate,No,8984,0,24,300,1,Urban,Medical,16.19,19-09-2022,Fully Paid
+LN100317,Male,No,0,Graduate,Yes,6921,2884,14,180,1,Rural,Medical,9.36,08-09-2022,Fully Paid
+LN100318,Male,Yes,0,Not Graduate,No,5707,0,17,240,1,Rural,Business,9.24,10-06-2023,Fully Paid
+LN100319,Male,Yes,0,Graduate,No,5007,2870,20,360,1,Semiurban,Home,7.45,11-12-2023,Charged Off
+LN100320,Male,Yes,3+,Graduate,No,6651,2454,22,180,1,Urban,Personal,8.8,06-05-2022,Fully Paid
+LN100321,Female,Yes,1,Graduate,No,5051,2977,14,120,,Semiurban,Auto,6.69,25-07-2022,Current
+LN100322,Female,No,1,Graduate,No,8052,7027,32,120,1,Rural,Medical,12.5,20-05-2022,Current
+LN100323,Male,Yes,0,Graduate,No,5080,0,12,120,1,Urban,Home,5.9,03-03-2022,Current
+LN100324,Female,,2,Not Graduate,No,5928,0,12,120,1,Semiurban,Auto,13.11,10-10-2022,Fully Paid
+LN100325,Female,Yes,3+,Graduate,,10372,2958,36,120,1,Rural,Education,13.2,23-02-2022,Fully Paid
+LN100326,Male,Yes,2,Not Graduate,Yes,10750,0,21,180,1,Rural,Home,5.19,12-12-2022,Fully Paid
+LN100327,Female,No,0,Graduate,,10620,876,15,180,1,Rural,Education,16.42,08-06-2023,Fully Paid
+LN100328,Male,No,1,Graduate,Yes,6963,4111,15,84,1,Rural,Auto,12.8,16-05-2022,Fully Paid
+LN100329,Male,Yes,0,Graduate,No,5789,0,5,240,1,Rural,Personal,13.62,26-11-2022,Fully Paid
+LN100330,Male,Yes,0,Graduate,No,8501,0,14,120,1,Semiurban,Personal,8.34,24-05-2022,Fully Paid
+LN100331,Female,No,0,Graduate,Yes,5117,0,14,300,,Semiurban,Medical,13.18,12-03-2023,Charged Off
+LN100332,Male,Yes,1,Graduate,No,9253,6257,46,60,1,Rural,Education,14.94,09-10-2022,Fully Paid
+LN100333,Male,,1,Graduate,No,5604,0,8,360,1,Semiurban,Personal,10.65,16-05-2022,Charged Off
+LN100334,Male,,0,Not Graduate,No,6551,0,22,180,1,Rural,Education,18.01,04-05-2023,Fully Paid
+LN100335,Male,No,0,Graduate,Yes,9330,2601,26,300,0,Urban,Education,11.15,23-03-2024,Charged Off
+LN100336,Female,Yes,0,Not Graduate,No,3581,3527,23,360,1,Urban,Auto,14.99,03-01-2024,Fully Paid
+LN100337,Female,No,0,Graduate,No,5689,3458,25,360,1,Urban,Medical,12.03,01-05-2024,Fully Paid
+LN100338,Male,Yes,0,Graduate,No,8115,4170,34,360,1,Urban,Personal,13.05,22-12-2023,Fully Paid
+LN100339,Male,Yes,0,Graduate,No,8755,5971,15,60,0,Urban,Auto,5.15,05-02-2023,Fully Paid
+LN100340,Male,Yes,2,Not Graduate,No,8233,0,11,60,1,Semiurban,Home,12.3,20-05-2024,Charged Off
+LN100341,Male,Yes,0,Graduate,Yes,6522,0,5,300,,Urban,Home,8.43,10-06-2024,Charged Off
+LN100342,Male,No,0,Graduate,No,9681,0,26,240,1,Semiurban,Personal,8.04,25-03-2023,Fully Paid
+LN100343,Male,No,0,Graduate,No,4950,4077,16,360,1,Semiurban,Home,17.1,27-09-2023,Fully Paid
+LN100344,Male,No,3+,Graduate,No,4876,2513,22,360,1,Urban,Home,10.25,20-09-2023,Fully Paid
+LN100345,Female,Yes,1,Graduate,No,8086,2003,17,120,1,Urban,Personal,7.49,31-10-2023,Fully Paid
+LN100346,Female,Yes,1,Graduate,No,4758,1828,20,84,0,Semiurban,Home,9.74,27-09-2022,Fully Paid
+LN100347,Male,Yes,0,Graduate,No,12842,0,15,180,,Rural,Home,6.45,17-01-2022,Fully Paid
+LN100348,Male,,1,Graduate,No,5747,3655,12,300,1,Rural,Personal,16.02,26-09-2022,Fully Paid
+LN100349,Female,Yes,0,Graduate,No,9613,5701,26,60,,Rural,Personal,8.57,10-05-2024,Current
+LN100350,Male,No,1,Graduate,No,4479,734,10,180,0,Rural,Medical,12.85,27-04-2023,Fully Paid
+LN100351,Female,Yes,3+,Graduate,No,11770,2896,26,300,1,Semiurban,Personal,15.75,07-08-2022,Current
+LN100352,Female,Yes,1,Not Graduate,No,7136,0,20,120,1,Rural,Education,9.25,15-11-2022,Fully Paid
+LN100353,Male,No,2,Graduate,,5691,1903,8,240,1,Rural,Medical,12.86,26-08-2022,Fully Paid
+LN100354,Male,Yes,1,Graduate,No,6359,3238,17,180,1,Rural,Auto,7.39,29-06-2023,Fully Paid
+LN100355,Female,No,0,Graduate,No,5373,2106,23,240,1,Urban,Home,19.56,12-10-2022,Current
+LN100356,Male,No,3+,Graduate,No,6545,3981,10,240,1,Rural,Home,14.28,06-02-2022,Fully Paid
+LN100357,Female,Yes,0,Graduate,No,4569,1769,21,84,1,Semiurban,Auto,10.33,13-04-2022,Fully Paid
+LN100358,Female,Yes,0,Not Graduate,No,5756,4356,35,84,0,Rural,Personal,8.3,24-12-2023,Charged Off
+LN100359,Male,Yes,0,Graduate,No,9544,1909,12,120,0,Urban,Auto,10.6,06-03-2023,Fully Paid
+LN100360,Male,No,0,Not Graduate,Yes,7660,0,12,360,1,Semiurban,Auto,9.81,02-03-2024,Fully Paid
+LN100361,F,Yes,0,Graduate,No,4915,0,9,120,1,Urban,Personal,17.84,16-10-2023,Fully Paid
+LN100362,Male,Yes,0,Graduate,No,6626,2864,27,120,1,Urban,Medical,6.71,27-08-2022,Fully Paid
+LN100363,Male,Yes,0,Graduate,No,10797,5243,39,120,1,Urban,Personal,11.47,11-01-2024,Charged Off
+LN100364,Female,No,1,Not Graduate,No,5990,0,15,84,1,Rural,Home,10.94,07-10-2023,Fully Paid
+LN100365,Male,Yes,0,Graduate,No,4741,0,13,84,1,Urban,Business,10.59,05-05-2022,Current
+LN100366,Female,No,0,Graduate,Yes,8637,3696,14,180,1,Urban,Home,10.62,19-07-2023,Fully Paid
+LN100367,Female,No,1,Graduate,No,3146,5021,25,180,1,Urban,Auto,10.59,23-08-2023,Fully Paid
+LN100368,Male,Yes,0,Graduate,No,6410,3332,26,180,1,Semiurban,Medical,14.06,02-09-2023,Fully Paid
+LN100369,Male,Yes,1,Graduate,No,11158,2820,33,300,1,Urban,Auto,13.13,31-05-2024,Fully Paid
+LN100370,Male,,1,Graduate,No,6558,2935,30,300,0,Urban,Personal,12.47,30-08-2023,Fully Paid
+LN100371,Male,Yes,2,Graduate,No,9898,3160,35,180,,Semiurban,Personal,5,07-07-2022,Charged Off
+LN100372,Male,No,1,Graduate,Yes,4719,0,6,360,1,Semiurban,Education,12.05,06-06-2024,Fully Paid
+LN100373,Female,Yes,0,Graduate,No,6467,0,13,240,1,Urban,Education,5.21,13-09-2022,Fully Paid
+LN100374,Male,Yes,1,Not Graduate,No,6252,3690,21,60,1,Urban,Personal,13.26,08-08-2023,Fully Paid
+LN100375,Male,No,0,Graduate,No,8466,9113,17,360,1,Urban,Auto,16.16,23-05-2024,Fully Paid
+LN100376,Female,Yes,0,Graduate,No,7277,6264,46,240,1,Rural,Auto,7.76,04-03-2024,Fully Paid
+LN100377,Male,Yes,2,Graduate,No,11731,0,13,360,1,Semiurban,Home,10.08,14-06-2023,Fully Paid
+LN100378,Female,Yes,0,Graduate,No,5874,0,16,360,,Semiurban,Personal,8.9,07-11-2023,Charged Off
+LN100379,Male,Yes,2,Graduate,No,7246,4560,26,180,1,Urban,Auto,15.32,27-01-2023,Fully Paid
+LN100380,Male,Yes,2,Graduate,Yes,6335,4921,10,240,1,Semiurban,Personal,11.33,20-10-2023,Fully Paid
+LN100381,Female,Yes,2,Graduate,Yes,7057,2762,32,84,1,Urban,Personal,17.05,13-04-2023,Current
+LN100382,Female,No,3+,Graduate,No,6830,3146,31,180,1,Urban,Auto,12.45,05-04-2024,Charged Off
+LN100383,Female,Yes,0,Graduate,No,5100,2408,17,120,1,Semiurban,Auto,11.85,10-09-2022,Fully Paid
+LN100384,Female,No,0,Graduate,No,9348,5180,21,300,1,Semiurban,Education,11.24,03-11-2023,Fully Paid
+LN100385,Female,Yes,1,Not Graduate,No,5542,1751,8,360,1,Urban,Business,13.86,10-05-2024,Fully Paid
+LN100386,Male,No,0,Graduate,,5406,0,10,360,1,Semiurban,Home,5,15-07-2023,Fully Paid
+LN100387,Male,Yes,1,Graduate,Yes,3973,0,6,60,1,Rural,Medical,11.3,25-06-2022,Fully Paid
+LN100388,Female,No,1,Graduate,Yes,5815,1921,17,300,1,Semiurban,Home,10.75,11-04-2023,Fully Paid
+LN100389,Female,Yes,1,Graduate,Yes,5517,1659,24,120,1,Semiurban,Home,13.54,18-04-2024,Fully Paid
+LN100390,,Yes,0,Graduate,No,2433,1461,,300,0,Rural,Business,10.34,31-07-2023,Fully Paid
+LN100391,Male,Yes,0,Not Graduate,No,3329,2370,18,360,1,Rural,Home,7.36,16-10-2022,Current
+LN100392,Male,Yes,0,Not Graduate,No,6535,0,17,120,1,Semiurban,Auto,11.03,19-02-2022,Fully Paid
+LN100393,Female,Yes,0,Graduate,Yes,11527,4682,34,180,1,Semiurban,Business,7.21,04-01-2022,Fully Paid
+LN100394,Male,Yes,3+,Not Graduate,,4209,586,15,120,0,Urban,Business,5,23-09-2023,Charged Off
+LN100395,Female,No,0,Not Graduate,No,7010,1927,19,300,1,Semiurban,Medical,13.54,01-05-2024,Charged Off
+LN100396,Female,Yes,0,Not Graduate,No,6479,1610,25,60,1,Urban,Home,13.03,03-06-2024,Charged Off
+LN100397,Male,Yes,0,Not Graduate,Yes,8886,763,15,360,1,Urban,Auto,12.63,15-05-2023,Fully Paid
+LN100398,Female,Yes,1,Graduate,No,9128,0,10,84,1,Semiurban,Home,15.56,07-11-2023,Fully Paid
+LN100399,Female,No,1,Graduate,Yes,14749,3520,57,120,1,Urban,Education,8.67,11-08-2022,Fully Paid
+LN100400,Male,Yes,0,Graduate,Yes,7762,1269,22,60,,Semiurban,Business,5.99,19-05-2024,Charged Off
+LN100401,Female,Yes,0,Graduate,No,5267,4789,32,360,0,Semiurban,Education,10.75,30-10-2023,Current
+LN100402,Male,Yes,0,Not Graduate,No,5758,0,19,240,1,Semiurban,Personal,9.78,17-06-2024,Charged Off
+LN100403,Female,No,0,Graduate,No,5964,1760,7,84,1,Urban,Personal,8.05,19-09-2022,Current
+LN100404,Male,No,1,Graduate,,5595,4273,21,180,1,Urban,Personal,10.72,16-11-2023,Charged Off
+LN100405,Female,Yes,1,Not Graduate,No,12621,2303,27,60,1,Semiurban,Medical,8.86,19-06-2023,Fully Paid
+LN100406,Male,No,0,Not Graduate,,8966,3060,30,60,0,Rural,Home,5,11-01-2023,Charged Off
+LN100407,Male,No,0,Not Graduate,No,3846,0,11,360,1,Urban,Personal,9.46,02-03-2022,Fully Paid
+LN100408,Female,Yes,,Graduate,No,8439,2785,17,300,1,Urban,Business,7.02,22-12-2022,Fully Paid
+LN100409,Male,No,0,Graduate,No,4785,631,12,120,1,Rural,Personal,11.81,12-04-2024,Fully Paid
+LN100410,Male,Yes,1,Graduate,Yes,9094,0,25,300,0,Urban,Home,8.7,08-10-2023,Charged Off
+LN100411,Female,Yes,0,Graduate,Yes,10483,3482,16,240,1,Rural,Personal,14.89,24-01-2022,Fully Paid
+LN100412,Female,Yes,0,Graduate,No,6521,7349,42,360,1,Semiurban,Education,16.61,20-10-2022,Fully Paid
+LN100413,Male,Yes,0,Graduate,No,5734,2772,21,360,1,Semiurban,Home,13.38,11-07-2023,Fully Paid
+LN100414,Female,Yes,0,Not Graduate,No,11844,0,40,60,1,Urban,Business,5.57,22-11-2023,Fully Paid
+LN100415,Male,No,3+,Graduate,No,5475,1781,12,120,,Urban,Personal,16.27,22-12-2022,Current
+LN100416,Male,Yes,0,Graduate,No,5279,2461,8,360,1,Urban,Medical,16.52,19-05-2024,Fully Paid
+LN100417,Male,Yes,0,Graduate,Yes,4980,2404,16,84,1,Rural,Business,11.07,29-07-2023,Fully Paid
+LN100418,Female,Yes,0,Graduate,No,6888,4114,11,360,1,Semiurban,Auto,15.63,29-01-2022,Fully Paid
+LN100419,Female,No,0,Graduate,No,7754,4128,41,120,1,Semiurban,Home,9.07,23-12-2022,Fully Paid
+LN100420,Female,Yes,0,Graduate,Yes,9945,1483,10,120,1,Rural,Education,5,31-12-2022,Fully Paid
+LN100421,Female,Yes,0,Graduate,,8579,0,24,120,1,Urban,Home,8.34,31-08-2023,Fully Paid
+LN100422,Male,Yes,2,Graduate,No,8529,0,19,360,1,Semiurban,Business,17.05,13-02-2023,Current
+LN100423,Male,Yes,0,Graduate,No,11089,2472,24,360,1,Semiurban,Home,5.78,23-09-2022,Charged Off
+LN100424,Male,,0,Not Graduate,No,4900,6115,11,84,1,Rural,Home,11,18-10-2022,Fully Paid
+LN100425,Male,No,3+,Graduate,No,4126,780,12,240,0,Urban,Personal,11.12,21-07-2023,Fully Paid
+LN100426,Male,Yes,0,Graduate,No,8733,3752,30,240,1,Semiurban,Home,9.2,02-06-2022,Fully Paid
+LN100427,Female,No,3+,Graduate,Yes,6773,2105,14,360,1,Rural,Home,9.45,07-08-2022,Charged Off
+LN100428,Male,Yes,0,Not Graduate,No,9959,0,32,360,,Semiurban,Personal,11.25,22-06-2022,Fully Paid
+LN100429,Male,No,3+,Graduate,No,7000,2493,15,84,1,Urban,Home,9.03,31-08-2023,Fully Paid
+LN100430,Male,Yes,1,Graduate,No,5666,0,11,360,1,Semiurban,Home,6.02,27-09-2023,Fully Paid
+LN100431,Female,Yes,2,Not Graduate,No,8780,0,20,240,1,Urban,Education,11.75,12-01-2022,Fully Paid
+LN100432,Female,Yes,,Graduate,No,7313,3408,11,360,1,Semiurban,Auto,14.76,31-05-2023,Fully Paid
+LN100433,Male,No,0,Graduate,No,7002,5077,40,60,1,Rural,Personal,14.04,28-12-2022,Fully Paid
+LN100434,Male,Yes,3+,Graduate,Yes,15853,0,29,300,1,Semiurban,Education,8.17,07-05-2024,Fully Paid
+LN100435,Female,Yes,0,Graduate,No,10765,3451,14,180,0,Semiurban,Personal,6.62,02-08-2023,Fully Paid
+LN100436,Male,Yes,0,Graduate,No,9190,0,17,180,1,Semiurban,Education,10.01,19-10-2023,Fully Paid
+LN100437,Female,No,0,Graduate,No,7394,4155,28,120,1,Urban,Medical,16.49,22-04-2023,Fully Paid
+LN100438,Female,Yes,0,Not Graduate,,7168,1813,20,360,1,Urban,Home,13.26,31-07-2023,Fully Paid
+LN100439,Male,No,0,Not Graduate,No,6349,7696,38,120,1,Rural,Auto,13.46,23-03-2022,Current
+LN100440,Male,No,1,Graduate,No,7663,3966,11,180,1,Semiurban,Business,14.11,09-09-2023,Fully Paid
+LN100441,,Yes,0,Graduate,No,5926,6891,20,180,1,Urban,Business,12.47,24-11-2023,Fully Paid
+LN100442,Male,No,2,Graduate,No,4548,3023,23,300,,Urban,Home,11.42,06-12-2022,Charged Off
+LN100443,Male,Yes,2,Not Graduate,No,6971,2235,9,240,0,Semiurban,Home,13.32,17-03-2023,Fully Paid
+LN100444,Female,No,0,Not Graduate,No,7888,1405,29,360,1,Rural,Auto,9.09,09-09-2023,Charged Off
+LN100445,Female,Yes,0,Graduate,,9968,624,11,120,1,Rural,Home,6.05,14-08-2022,Fully Paid
+LN100446,,No,0,Not Graduate,No,5289,0,16,120,1,Urban,Business,13.53,06-01-2023,Charged Off
+LN100447,Female,No,0,Graduate,No,7188,0,13,300,,Rural,Auto,15.33,28-01-2022,Charged Off
+LN100448,Male,No,0,Graduate,No,8555,1117,24,240,1,Semiurban,Auto,7.09,16-01-2022,Fully Paid
+LN100449,Male,No,0,Graduate,No,8486,1420,12,180,1,Semiurban,Home,13.88,04-10-2022,Fully Paid
+LN100450,Female,Yes,0,Graduate,No,12373,1507,14,120,1,Semiurban,Auto,16.88,29-11-2022,Charged Off
+LN100451,Male,Yes,3+,Graduate,No,6392,0,9,60,0,Urban,Auto,10.99,28-04-2023,Fully Paid
+LN100452,Male,No,1,Graduate,No,5137,0,6,360,0,Rural,Business,8.14,20-03-2024,Current
+LN100453,Female,Yes,0,Graduate,No,7357,4100,19,120,1,Urban,Home,11.43,20-07-2023,Fully Paid
+LN100454,Male,Yes,1,Not Graduate,No,6510,4875,25,120,0,Urban,Home,9.07,15-10-2022,Charged Off
+LN100455,Male,No,0,Graduate,Yes,6110,5186,27,84,1,Rural,Education,8.84,24-04-2022,Fully Paid
+LN100456,Male,No,0,Graduate,No,5824,2107,23,360,1,Semiurban,Home,12.52,07-02-2022,Fully Paid
+LN100457,Male,No,1,Graduate,Yes,7899,2210,26,240,0,Rural,Personal,5.39,30-03-2023,Charged Off
+LN100458,Male,Yes,0,Graduate,No,5546,1028,16,360,0,Semiurban,Business,5.95,31-05-2024,Fully Paid
+LN100459,Male,No,0,Graduate,No,9187,4117,25,360,1,Urban,Education,11.07,12-01-2024,Fully Paid
+LN100460,Male,Yes,,Graduate,No,9028,0,,360,1,Rural,Business,10.92,15-06-2022,Fully Paid
+LN100461,Female,No,3+,Graduate,No,8156,2809,21,300,0,Urban,Home,12.2,25-11-2023,Charged Off
+LN100462,Female,Yes,1,Graduate,,4897,7165,37,240,0,Rural,Home,17.56,24-07-2022,Charged Off
+LN100463,Female,No,1,Graduate,Yes,7772,0,11,120,0,Urban,Home,11.37,27-05-2024,Charged Off
+LN100464,Female,,1,Graduate,No,10214,0,8,60,1,Rural,Education,13.09,02-09-2022,Fully Paid
+LN100465,Male,Yes,0,Graduate,No,9429,0,24,360,,Urban,Business,7.59,20-05-2024,Charged Off
+LN100466,Male,,0,Graduate,Yes,8945,1166,14,180,,Semiurban,Home,13.69,29-11-2022,Charged Off
+LN100467,Female,Yes,0,Graduate,No,7150,1628,28,60,1,Rural,Personal,9.16,31-01-2023,Fully Paid
+LN100468,Male,No,0,Not Graduate,,7037,0,22,60,0,Semiurban,Personal,11.25,31-03-2024,Fully Paid
+LN100469,Female,No,0,Graduate,No,10831,2009,13,84,1,Semiurban,Medical,10.62,22-05-2023,Fully Paid
+LN100470,Male,Yes,0,Graduate,No,7855,0,9,60,1,Rural,Home,14.62,01-05-2022,Fully Paid
+LN100471,Female,No,3+,Graduate,,7890,1315,20,84,1,Semiurban,Home,6.42,16-09-2022,Charged Off
+LN100472,Male,No,3+,Graduate,No,17709,5553,57,180,1,Rural,Home,5,23-12-2023,Charged Off
+LN100473,Female,Yes,1,Graduate,No,6344,1317,12,360,1,Semiurban,Education,10.25,14-02-2023,Fully Paid
+LN100474,Male,Yes,0,Not Graduate,No,3241,2252,15,360,0,Urban,Home,12.64,06-11-2022,Charged Off
+LN100475,,No,2,Not Graduate,No,6670,356,17,180,1,Urban,Business,11.53,18-03-2024,Fully Paid
+LN100476,Male,No,0,Not Graduate,No,6808,1989,15,120,1,Urban,Personal,15.31,07-12-2023,Charged Off
+LN100477,Male,No,2,Graduate,No,7813,1199,8,84,,Urban,Personal,12.53,09-03-2022,Charged Off
+LN100478,Female,No,0,Graduate,No,8457,1852,29,180,1,Semiurban,Personal,9.03,24-04-2022,Fully Paid
+LN100479,Male,Yes,2,Graduate,No,3414,4932,12,60,1,Urban,Home,5,08-08-2022,Fully Paid
+LN100480,Female,No,0,Graduate,No,8519,3785,38,120,1,Urban,Education,10.17,08-08-2022,Fully Paid
+LN100481,Female,Yes,2,Graduate,No,6952,0,13,120,1,Urban,Medical,14.6,18-04-2023,Fully Paid
+LN100482,Male,Yes,3+,Graduate,No,6446,0,15,300,1,Rural,Business,9.63,31-12-2023,Fully Paid
+LN100483,Female,Yes,0,Not Graduate,No,3898,0,12,180,0,Semiurban,Business,11.1,19-01-2024,Fully Paid
+LN100484,Female,Yes,0,Graduate,No,11674,2710,45,360,1,Urban,Business,12.47,21-01-2023,Fully Paid
+LN100485,Female,Yes,,Graduate,No,6081,4672,19,300,0,Rural,Home,7.45,25-10-2022,Charged Off
+LN100486,Male,Yes,0,Graduate,Yes,8989,1873,15,120,1,Urban,Home,13.18,29-08-2023,Current
+LN100487,Male,No,2,Graduate,No,5263,0,15,180,1,Rural,Home,16.73,10-09-2022,Fully Paid
+LN100488,Female,Yes,1,Graduate,No,7935,2022,20,240,1,Semiurban,Education,10.4,09-02-2023,Fully Paid
+LN100489,Female,Yes,0,Graduate,No,6481,5743,16,180,1,Urban,Home,7.05,07-05-2023,Fully Paid
+LN100490,Male,Yes,0,Graduate,No,8889,0,29,360,1,Semiurban,Personal,10.77,23-12-2022,Current
+LN100491,Female,Yes,0,Graduate,No,6406,0,9,240,1,Rural,Auto,5,04-03-2023,Fully Paid
+LN100492,Male,Yes,2,Not Graduate,No,5181,5957,10,120,1,Semiurban,Business,12.18,03-08-2022,Charged Off
+LN100493,Male,Yes,0,Not Graduate,No,7063,0,6,300,1,Rural,Auto,12.58,15-01-2023,Fully Paid
+LN100494,Male,Yes,0,Graduate,No,6939,6827,34,120,1,Urban,Medical,16.86,09-02-2024,Fully Paid
+LN100495,Male,No,0,Graduate,No,7748,0,20,120,1,Urban,Home,10.32,08-05-2024,Fully Paid
+LN100496,Female,Yes,1,Not Graduate,No,9851,0,16,180,1,Urban,Home,12.43,22-01-2024,Fully Paid
+LN100497,Male,Yes,2,Not Graduate,Yes,4794,0,8,60,1,Urban,Auto,7.99,06-04-2024,Fully Paid
+LN100498,,Yes,,Graduate,No,9667,1414,19,60,1,Urban,Home,9.75,02-08-2022,Fully Paid
+LN100499,,No,0,Graduate,No,4553,4109,23,360,1,Rural,Home,5.66,08-04-2022,Fully Paid
+LN100500,Female,Yes,2,Graduate,No,8766,1386,10,240,1,Urban,Education,10.32,12-06-2023,Fully Paid
+LN100501,Male,Yes,2,Not Graduate,No,8865,0,29,180,1,Semiurban,Home,9.93,28-10-2023,Fully Paid
+LN100502,Male,Yes,1,Not Graduate,No,5971,0,8,300,0,Semiurban,Personal,12.05,12-06-2023,Fully Paid
+LN100503,Female,Yes,3+,Graduate,Yes,5354,3778,32,360,1,Rural,Education,8.82,11-12-2023,Fully Paid
+LN100504,Female,Yes,0,Not Graduate,No,5258,2698,10,84,1,Rural,Personal,11.29,12-09-2023,Fully Paid
+LN100505,Male,Yes,0,Graduate,No,7298,3357,31,120,0,Rural,Auto,9.83,19-06-2023,Charged Off
+LN100506,Female,Yes,2,Not Graduate,No,9071,2004,16,120,1,Rural,Education,9.84,08-07-2023,Fully Paid
+LN100507,Female,Yes,0,Graduate,Yes,6740,0,7,360,1,Rural,Home,11.28,03-07-2023,Fully Paid
+LN100508,Female,Yes,2,Not Graduate,No,3138,1574,15,360,1,Rural,Home,11.14,24-11-2022,Fully Paid
+LN100509,Female,No,3+,Graduate,,5836,0,18,360,1,Semiurban,Education,13.66,14-06-2022,Fully Paid
+LN100510,Female,No,0,Graduate,No,5766,2334,15,360,,Urban,Auto,10.58,26-04-2022,Charged Off
+LN100511,Male,No,3+,Graduate,No,8436,5106,37,84,0,Semiurban,Auto,9.78,30-05-2022,Current
+LN100512,Female,No,0,Not Graduate,Yes,8592,4376,30,300,1,Semiurban,Auto,10.37,02-06-2023,Fully Paid
+LN100513,Female,Yes,0,Not Graduate,No,7494,3127,33,60,,Urban,Home,8.5,01-02-2022,Fully Paid
+LN100514,Male,Yes,1,Not Graduate,No,9674,3409,22,84,1,Urban,Personal,9.74,19-10-2023,Fully Paid
+LN100515,Male,Yes,3+,Not Graduate,No,9937,0,22,360,1,Semiurban,Personal,18.11,16-03-2024,Fully Paid
+LN100516,Male,Yes,0,Graduate,No,5954,0,13,240,0,Rural,Personal,7.81,20-10-2022,Fully Paid
+LN100517,Female,No,0,Graduate,No,5219,6441,20,180,1,Urban,Personal,10.02,20-11-2023,Fully Paid
+LN100518,,Yes,1,Graduate,No,6905,1124,26,300,1,Rural,Personal,9.64,26-06-2022,Fully Paid
+LN100519,Male,No,1,Graduate,Yes,7489,0,9,300,1,Semiurban,Personal,10.13,02-03-2022,Fully Paid
+LN100520,Female,Yes,1,Graduate,No,5852,0,7,60,1,Rural,Auto,9.84,12-08-2023,Fully Paid
+LN100521,Male,No,0,Graduate,No,19462,851,48,120,1,Rural,Home,11.98,20-02-2023,Fully Paid
+LN100522,Female,Yes,0,Graduate,No,11417,3339,38,180,1,Rural,Auto,5.01,18-01-2023,Current
+LN100523,Female,Yes,0,Graduate,No,5667,1828,10,360,1,Semiurban,Home,14.63,21-08-2023,Fully Paid
+LN100524,Female,Yes,2,Graduate,No,4860,0,9,120,1,Urban,Home,13.21,04-12-2023,Fully Paid
+LN100525,Male,Yes,0,Graduate,No,5512,1608,24,240,,Semiurban,Medical,6.65,07-01-2022,Current
+LN100526,Male,Yes,0,Not Graduate,No,10002,2651,19,240,0,Rural,Medical,5,26-03-2022,Charged Off
+LN100527,Male,Yes,3+,Graduate,No,10091,3258,35,360,1,Rural,Home,7.58,13-02-2024,Charged Off
+LN100528,Male,No,0,Not Graduate,No,11470,2299,39,180,,Rural,Education,10.15,02-02-2023,Current
+LN100529,Female,Yes,,Graduate,No,5168,0,10,60,1,Urban,Home,20.03,10-02-2024,Fully Paid
+LN100530,Female,Yes,1,Graduate,No,8424,0,28,240,1,Semiurban,Personal,12.9,28-01-2023,Fully Paid
+LN100531,,Yes,2,Not Graduate,No,5328,0,15,60,1,Urban,Business,5,16-02-2022,Fully Paid
+LN100532,,No,0,Graduate,No,12394,2063,29,300,1,Urban,Medical,8.59,07-12-2022,Fully Paid
+LN100533,Male,Yes,0,Graduate,No,5227,2829,19,180,1,Urban,Personal,10.81,13-05-2023,Fully Paid
+LN100534,Female,Yes,2,Graduate,No,4496,2168,18,120,1,Urban,Education,11.89,29-08-2023,Fully Paid
+LN100535,Female,Yes,2,Graduate,No,4769,5245,24,120,1,Rural,Personal,6.4,23-04-2023,Fully Paid
+LN100536,Female,Yes,2,Graduate,No,7074,4378,36,300,1,Urban,Education,10.53,02-03-2023,Charged Off
+LN100537,Male,No,0,Graduate,No,9025,2083,20,120,,Urban,Business,8.49,02-03-2023,Fully Paid
+LN100538,Male,Yes,2,Graduate,Yes,8815,0,14,240,1,Rural,Business,7.14,06-01-2024,Fully Paid
+LN100539,Male,Yes,2,Graduate,Yes,4836,0,7,300,0,Urban,Personal,11.91,01-03-2024,Charged Off
+LN100540,Female,No,1,Graduate,No,6187,2669,8,180,,Urban,Education,13.71,30-05-2023,Current
+LN100541,Female,Yes,2,Not Graduate,No,5908,1183,6,180,1,Urban,Home,13.94,09-05-2022,Fully Paid
+LN100542,M,Yes,2,Graduate,No,4610,1529,19,360,1,Urban,Home,13.01,14-04-2024,Fully Paid
+LN100543,Female,Yes,1,Graduate,No,5861,2555,22,84,1,Urban,Business,9.26,06-09-2022,Charged Off
+LN100544,Female,No,0,Not Graduate,No,11285,3775,39,120,0,Urban,Personal,13.5,11-01-2024,Fully Paid
+LN100545,Male,Yes,0,Graduate,No,4407,2575,17,180,1,Semiurban,Education,12.08,18-04-2024,Fully Paid
+LN100546,Male,No,0,Graduate,Yes,7666,3605,35,84,1,Urban,Personal,11.47,11-05-2022,Fully Paid
+LN100547,Female,Yes,0,Graduate,No,11383,0,24,120,1,Urban,Business,8.86,10-01-2024,Fully Paid
+LN100548,Male,Yes,0,Graduate,No,11164,2870,44,84,1,Rural,Home,9.26,20-11-2023,Fully Paid
+LN100549,Female,Yes,0,Graduate,No,12614,4395,30,120,,Semiurban,Business,11.26,19-11-2022,Fully Paid
+LN100550,Male,No,0,Not Graduate,No,7929,3478,38,60,1,Rural,Business,19.54,02-04-2024,Fully Paid
+LN100551,Female,Yes,0,Graduate,Yes,8341,2253,28,240,0,Semiurban,Medical,12.05,18-06-2024,Charged Off
+LN100552,Male,No,2,Graduate,No,5898,3535,14,84,1,Semiurban,Education,8.86,27-06-2023,Fully Paid
+LN100553,Male,No,3+,Graduate,No,4376,0,10,240,1,Rural,Home,8.09,07-03-2022,Fully Paid
+LN100554,Female,Yes,0,Graduate,No,6736,2946,22,360,,Urban,Education,9.28,19-12-2023,Charged Off
+LN100555,Male,Yes,3+,Graduate,No,10450,1982,15,120,1,Urban,Education,18.62,11-04-2022,Fully Paid
+LN100556,Male,Yes,0,Graduate,No,3123,4881,19,180,,Semiurban,Home,9.6,11-04-2024,Fully Paid
+LN100557,Male,Yes,0,Graduate,No,5990,2226,14,360,1,Semiurban,Personal,14.17,31-01-2022,Current
+LN100558,Female,No,0,Graduate,No,8630,2410,10,300,1,Rural,Personal,9.68,03-06-2024,Fully Paid
+LN100559,Female,No,0,Graduate,,7108,4280,38,60,1,Rural,Business,11.91,10-07-2022,Fully Paid
+LN100560,Female,Yes,2,Graduate,No,10931,1455,31,240,,Semiurban,Home,13.77,01-08-2023,Charged Off
+LN100561,Male,Yes,1,Not Graduate,No,10053,2770,41,60,,Semiurban,Personal,9,19-02-2023,Charged Off
+LN100562,Male,No,0,Graduate,No,4198,4291,22,240,1,Semiurban,Auto,8.76,25-03-2024,Charged Off
+LN100563,Male,Yes,0,Graduate,Yes,7317,590,14,84,1,Rural,Auto,16.81,17-01-2024,Fully Paid
+LN100564,Male,No,0,Graduate,No,5416,0,12,84,1,Rural,Business,14.45,29-02-2024,Fully Paid
+LN100565,Female,Yes,0,Graduate,No,5392,4377,26,240,1,Rural,Auto,13.77,15-12-2023,Fully Paid
+LN100566,Male,No,0,Graduate,No,4303,5131,32,60,1,Urban,Medical,13.76,15-05-2023,Fully Paid
+LN100567,Male,Yes,0,Graduate,No,7746,0,12,360,1,Rural,Education,12.61,11-05-2024,Fully Paid
+LN100568,Female,Yes,2,Graduate,Yes,11017,0,35,180,,Urban,Personal,18.06,07-01-2024,Charged Off
+LN100569,Male,Yes,3+,Not Graduate,No,7990,5022,43,360,1,Urban,Home,11.15,18-08-2023,Fully Paid
+LN100570,Male,Yes,0,Graduate,No,4215,0,11,120,0,Rural,Home,13.02,15-02-2022,Charged Off
+LN100571,Female,Yes,3+,Graduate,No,6967,2840,33,360,1,Urban,Home,5.92,30-03-2022,Fully Paid
+LN100572,Male,No,0,Not Graduate,No,8508,0,16,180,1,Rural,Home,8.11,29-11-2023,Charged Off
+LN100573,Female,No,0,Not Graduate,No,6786,2583,32,120,,Urban,Home,6.8,10-01-2023,Charged Off
+LN100574,Female,Yes,0,Not Graduate,No,7939,3186,30,240,1,Rural,Home,15.46,02-12-2023,Fully Paid
+LN100575,Female,Yes,1,Graduate,No,5566,0,5,300,0,Urban,Home,5,03-09-2022,Fully Paid
+LN100576,Male,Yes,,Graduate,No,6510,0,21,60,,Urban,Business,9.59,12-07-2023,Charged Off
+LN100577,Female,Yes,1,Graduate,No,6370,0,13,84,1,Urban,Home,5,14-09-2022,Current
+LN100578,Male,Yes,0,Graduate,,11773,2433,29,240,1,Semiurban,Auto,8.09,18-12-2022,Fully Paid
+LN100579,Male,Yes,1,Graduate,No,4871,0,11,120,1,Urban,Home,9.28,27-07-2023,Fully Paid
+LN100580,Male,Yes,0,Graduate,No,3246,2387,7,360,1,Semiurban,Business,15.85,15-04-2022,Fully Paid
+LN100581,,Yes,3+,Not Graduate,No,11487,0,24,300,1,Urban,Business,12.39,03-12-2022,Current
+LN100582,Male,Yes,0,Graduate,No,7405,0,23,240,1,Urban,Auto,8.08,10-06-2023,Fully Paid
+LN100583,Male,Yes,0,Not Graduate,No,4533,0,4,240,1,Urban,Auto,14.73,28-10-2022,Charged Off
+LN100584,Female,,1,Graduate,No,9728,2554,19,300,1,Semiurban,Home,11.06,18-03-2022,Fully Paid
+LN100585,Male,Yes,1,Graduate,,-8695,1966,9,240,1,Rural,Medical,11.13,26-05-2023,Fully Paid
+LN100586,Male,No,0,Graduate,No,12500,1954,28,360,1,Rural,Business,6.79,18-08-2022,Current
+LN100587,Male,Yes,1,Graduate,Yes,7614,4111,32,300,1,Urban,Business,7.53,10-11-2023,Fully Paid
+LN100588,Male,Yes,0,Graduate,No,15871,0,47,60,1,Semiurban,Auto,8.11,01-08-2023,Fully Paid
+LN100589,Male,No,1,Graduate,No,6807,5175,40,300,1,Rural,Education,11.16,01-02-2022,Fully Paid
+LN100590,Male,No,2,Not Graduate,No,8701,2305,27,180,1,Urban,Business,11.27,31-08-2023,Fully Paid
+LN100591,Female,,2,Graduate,No,9154,0,14,60,1,Semiurban,Home,16.4,27-02-2022,Fully Paid
+LN100592,Male,Yes,1,Graduate,No,19666,0,65,300,1,Semiurban,Personal,12.35,14-04-2022,Fully Paid
+LN100593,Male,Yes,0,Graduate,No,6071,3772,28,180,0,Urban,Home,5,08-11-2022,Charged Off
+LN100594,Female,No,0,Graduate,No,6004,2587,20,360,1,Urban,Medical,11.92,08-10-2023,Fully Paid
+LN100595,Male,Yes,2,Graduate,No,9222,0,25,240,1,Urban,Home,5.92,30-12-2023,Fully Paid
+LN100596,Female,Yes,0,Graduate,No,4403,3691,27,360,,Semiurban,Home,7.62,08-03-2022,Charged Off
+LN100597,Male,Yes,0,Graduate,No,5404,2092,20,300,0,Urban,Personal,8.16,21-11-2023,Fully Paid
+LN100598,Male,Yes,0,Graduate,No,6741,3165,18,360,1,Urban,Auto,8.68,09-01-2023,Fully Paid
+LN100599,Male,No,0,Graduate,No,12349,0,34,120,1,Urban,Personal,6.19,29-01-2024,Current
+LN100600,Male,Yes,1,Graduate,No,9224,0,8,240,1,Urban,Home,11.71,16-03-2024,Fully Paid
+LN100601,Male,Yes,0,Graduate,No,7300,0,13,84,1,Urban,Home,6.06,23-08-2022,Fully Paid
+LN100602,Male,Yes,2,Graduate,No,5875,5141,21,360,,Rural,Auto,12.25,05-10-2023,Charged Off
+LN100603,Male,Yes,0,Graduate,No,3224,2571,7,180,1,Urban,Medical,18.83,22-04-2022,Fully Paid
+LN100604,Male,Yes,0,Graduate,No,14237,2678,15,180,,Semiurban,Business,6.35,24-01-2023,Charged Off
+LN100605,Male,Yes,0,Graduate,No,6951,3428,12,240,1,Semiurban,Personal,10,12-02-2023,Fully Paid
+LN100606,Male,Yes,0,Not Graduate,No,5402,3431,23,360,,Semiurban,Business,5,23-02-2022,Charged Off
+LN100607,Male,No,0,Graduate,No,15319,0,45,360,1,Semiurban,Education,9.95,12-03-2024,Fully Paid
+LN100608,Male,Yes,1,Not Graduate,,4470,3031,26,360,1,Urban,Personal,13.25,27-08-2022,Fully Paid
+LN100609,Female,Yes,0,Not Graduate,No,11146,1731,22,300,1,Rural,Personal,13.52,22-01-2024,Fully Paid
+LN100610,Male,No,2,Graduate,No,7137,3183,25,360,1,Semiurban,Education,11.27,22-10-2022,Current
+LN100611,Female,No,0,Graduate,Yes,9216,2643,39,240,1,Rural,Auto,14.11,22-04-2022,Current
+LN100612,Female,Yes,0,Graduate,No,8614,0,,120,0,Semiurban,Personal,19.91,29-03-2022,Charged Off
+LN100613,Male,Yes,2,Not Graduate,Yes,9167,4088,36,300,1,Rural,Education,16.99,10-01-2024,Fully Paid
+LN100614,Female,Yes,0,Graduate,No,15882,1739,50,84,0,Rural,Home,9.17,21-04-2023,Fully Paid
+LN100615,Female,No,0,Graduate,No,14888,2927,19,360,1,Rural,Home,5.92,31-10-2022,Current
+LN100616,Male,,0,Graduate,No,5501,2233,24,300,1,Semiurban,Personal,9.58,01-11-2022,Fully Paid
+LN100617,Male,No,0,Not Graduate,No,8496,2319,32,360,,Semiurban,Home,7.69,17-10-2022,Charged Off
+LN100618,Female,Yes,2,Not Graduate,No,3758,3147,6,84,1,Rural,Home,12.58,27-07-2022,Fully Paid
+LN100619,Female,No,0,Graduate,No,9532,0,10,240,1,Rural,Auto,6.87,17-05-2024,Fully Paid
+LN100620,Male,Yes,2,Graduate,No,10360,794,10,240,1,Rural,Auto,10.75,25-02-2024,Fully Paid
+LN100621,Male,Yes,3+,Graduate,No,3260,0,6,84,1,Urban,Auto,13.93,05-08-2023,Charged Off
+LN100622,Male,Yes,0,Graduate,No,7043,0,15,60,0,Rural,Personal,10.65,05-01-2023,Charged Off
+LN100623,Male,No,3+,Not Graduate,No,9210,5802,34,240,1,Urban,Business,7.69,08-08-2022,Fully Paid
+LN100624,Female,Yes,0,Graduate,,8060,4939,20,300,1,Semiurban,Medical,15.11,19-08-2022,Fully Paid
+LN100625,Male,No,3+,Graduate,No,4501,1909,21,240,0,Urban,Business,5,12-03-2024,Charged Off
+LN100626,Male,Yes,0,Graduate,No,4666,4106,16,120,1,Urban,Personal,9.85,29-03-2024,Fully Paid
+LN100627,Female,Yes,1,Not Graduate,No,6748,4924,11,84,1,Rural,Education,10.85,22-05-2024,Fully Paid
+LN100628,Male,Yes,0,Not Graduate,No,6071,1127,12,240,,Urban,Medical,11.06,15-12-2022,Fully Paid
+LN100629,Male,Yes,0,Graduate,No,6275,2169,19,60,1,Semiurban,Home,11.63,12-09-2022,Fully Paid
+LN100630,Female,No,1,Graduate,Yes,4293,0,8,180,0,Semiurban,Home,13.14,28-03-2023,Charged Off
+LN100631,Female,Yes,1,Graduate,No,7181,0,11,300,1,Urban,Education,10.88,22-05-2022,Fully Paid
+LN100632,Male,No,0,Graduate,No,12386,1901,16,120,0,Urban,Home,9.71,10-03-2022,Fully Paid
+LN100633,Male,No,0,Graduate,No,4566,928,17,360,,Semiurban,Medical,9.57,30-03-2022,Charged Off
+LN100634,Male,No,1,Graduate,Yes,6549,1814,29,300,1,Urban,Personal,8.86,20-05-2024,Fully Paid
+LN100635,Male,Yes,1,Graduate,,8833,3064,20,360,1,Rural,Personal,13.76,16-05-2022,Fully Paid
+LN100636,Male,Yes,3+,Not Graduate,No,3958,2921,13,120,1,Rural,Auto,8.74,17-10-2023,Fully Paid
+LN100637,Male,Yes,2,Graduate,No,7207,1547,22,180,1,Urban,Personal,13.96,30-04-2024,Charged Off
+LN100638,Male,,3+,Graduate,No,10241,2908,36,120,1,Urban,Home,11.07,30-11-2023,Fully Paid
+LN100639,Male,No,1,Graduate,No,4899,0,9,180,1,Semiurban,Personal,9.18,07-06-2023,Fully Paid
+LN100640,Male,Yes,0,Graduate,,7459,0,24,360,1,Semiurban,Auto,13.16,22-10-2023,Fully Paid
+LN100641,Male,No,0,Not Graduate,No,9962,3094,30,300,,Urban,Education,8.45,14-03-2024,Charged Off
+LN100642,Male,Yes,2,Graduate,No,15546,7163,46,360,1,Urban,Auto,13.23,29-04-2024,Fully Paid
+LN100643,Male,Yes,1,Graduate,Yes,7321,3995,29,300,1,Semiurban,Home,11.74,18-03-2023,Fully Paid
+LN100644,Male,Yes,0,Graduate,No,5446,6367,40,180,1,Rural,Home,8.91,07-02-2022,Fully Paid
+LN100645,Female,No,0,Graduate,No,3581,9127,37,180,1,Semiurban,Home,12.85,06-05-2024,Current
+LN100646,Female,Yes,3+,Graduate,No,5462,0,5,120,1,Semiurban,Education,12.91,27-07-2022,Fully Paid
+LN100647,Female,No,0,Graduate,No,4211,2578,12,360,1,Rural,Business,15.05,29-07-2022,Fully Paid
+LN100648,Female,No,0,Graduate,No,12780,4660,36,360,0,Semiurban,Business,14.38,28-05-2023,Current
+LN100649,Male,No,0,Not Graduate,No,9735,0,16,180,,Semiurban,Education,12.72,26-12-2022,Fully Paid
+LN100650,Male,Yes,0,Graduate,Yes,4666,3836,23,180,1,Semiurban,Personal,7.05,31-07-2023,Fully Paid
+LN100651,Male,Yes,0,Graduate,No,5338,0,16,60,1,Rural,Auto,19.57,01-01-2022,Fully Paid
+LN100652,Female,Yes,0,Not Graduate,No,7278,3391,30,360,1,Semiurban,Home,6.09,25-01-2024,Charged Off
+LN100653,Female,Yes,0,Graduate,No,10212,5810,56,360,1,Rural,Home,14.32,16-01-2023,Fully Paid
+LN100654,Male,Yes,2,Graduate,No,8503,2212,16,240,1,Semiurban,Medical,12.51,07-04-2024,Charged Off
+LN100655,Male,No,0,Graduate,No,8202,2496,34,180,1,Semiurban,Personal,6.89,21-06-2023,Fully Paid
+LN100656,Male,Yes,2,Graduate,No,7639,4886,36,84,1,Urban,Medical,10.56,08-05-2024,Current
+LN100657,Male,Yes,2,Graduate,No,4752,3135,14,360,1,Urban,Education,10.72,29-01-2023,Fully Paid
+LN100658,Female,Yes,0,Graduate,No,7312,0,20,240,1,Rural,Auto,15.57,19-02-2022,Fully Paid
+LN100659,Male,Yes,1,Not Graduate,No,6997,4136,12,360,1,Urban,Home,8.5,31-01-2023,Charged Off
+LN100660,Male,Yes,0,Graduate,No,4191,5963,30,360,1,Semiurban,Home,10.08,09-05-2024,Fully Paid
+LN100661,,Yes,3+,Graduate,No,12654,1536,32,180,0,Urban,Personal,5,23-01-2024,Charged Off
+LN100662,Female,No,0,Graduate,No,5706,2706,13,240,,Rural,Education,17.07,01-02-2022,Charged Off
+LN100663,Male,Yes,1,Graduate,No,4229,3420,20,180,1,Urban,Home,7.25,29-06-2023,Fully Paid
+LN100664,Male,,1,Graduate,No,6043,954,18,120,1,Rural,Home,12.14,13-12-2023,Fully Paid
+LN100665,Male,No,0,Graduate,No,6458,0,9,360,1,Semiurban,Home,10.65,22-08-2022,Current
+LN100666,Male,Yes,0,Not Graduate,Yes,6921,4542,10,180,1,Urban,Auto,10.66,26-01-2022,Fully Paid
+LN100667,M,No,1,Graduate,No,6419,2908,18,360,1,Semiurban,Personal,13.83,08-07-2023,Fully Paid
+LN100668,Male,Yes,2,Graduate,No,7063,4949,28,84,1,Urban,Home,16.85,10-03-2023,Fully Paid
+LN100669,Male,No,0,Graduate,No,7496,5243,40,120,1,Urban,Home,11.88,02-03-2022,Fully Paid
+LN100670,Male,Yes,1,Graduate,No,7357,2654,33,300,1,Urban,Home,13.29,07-07-2023,Fully Paid
+LN100671,Female,No,0,Graduate,No,8180,0,18,360,1,Urban,Personal,12.15,17-03-2023,Fully Paid
+LN100672,Male,No,1,Graduate,No,8360,0,24,360,,Rural,Home,14.56,10-05-2022,Current
+LN100673,Male,No,0,Graduate,Yes,8437,4146,25,360,1,Urban,Auto,9.38,16-05-2024,Charged Off
+LN100674,Male,No,3+,Graduate,No,9210,3093,35,240,1,Semiurban,Home,14.76,20-12-2022,Fully Paid
+LN100675,,Yes,0,Graduate,No,5490,0,7,300,1,Urban,Home,14.89,17-07-2022,Fully Paid
+LN100676,Male,Yes,0,Graduate,Yes,5559,5049,19,300,1,Semiurban,Business,14.79,09-03-2024,Fully Paid
+LN100677,Male,Yes,0,Graduate,,10230,3907,36,84,1,Urban,Auto,8.69,25-10-2023,Fully Paid
+LN100678,Female,Yes,0,Not Graduate,No,6108,2420,7,240,1,Semiurban,Home,10.41,17-12-2023,Charged Off
+LN100679,Female,No,0,Graduate,No,6783,2317,25,60,1,Semiurban,Business,11.84,25-11-2023,Fully Paid
+LN100680,Female,Yes,0,Graduate,No,6569,3707,,180,1,Semiurban,Personal,6.2,06-01-2023,Fully Paid
+LN100681,Male,,2,Graduate,No,15313,2386,33,84,1,Urban,Business,16.58,20-12-2023,Fully Paid
+LN100682,Male,Yes,0,Graduate,,5168,0,10,360,1,Semiurban,Personal,10.96,27-05-2022,Fully Paid
+LN100683,Female,No,0,Graduate,No,5135,1201,20,300,1,Urban,Auto,11.99,17-12-2023,Fully Paid
+LN100684,Female,Yes,0,Graduate,No,7071,0,20,360,1,Urban,Medical,8.98,13-05-2023,Fully Paid
+LN100685,Male,No,0,Graduate,No,6636,2687,15,180,1,Semiurban,Home,6.36,17-02-2022,Fully Paid
+LN100686,Male,No,0,Not Graduate,Yes,4651,0,8,180,1,Semiurban,Personal,8.89,09-02-2024,Charged Off
+LN100687,Male,Yes,0,Graduate,Yes,6864,0,18,120,1,Semiurban,Personal,11.77,13-10-2023,Fully Paid
+LN100688,Female,Yes,0,Graduate,No,7141,2037,21,120,1,Semiurban,Home,13.36,21-06-2022,Fully Paid
+LN100689,Male,No,0,Graduate,,5893,3130,11,240,,Urban,Home,11.57,05-09-2023,Charged Off
+LN100690,Male,Yes,0,Not Graduate,No,6718,0,11,360,,Urban,Home,12.21,30-11-2023,Charged Off
+LN100691,Male,Yes,1,Graduate,No,-5339,3595,29,360,1,Urban,Personal,9.82,14-06-2024,Fully Paid
+LN100692,Male,Yes,0,Graduate,No,4655,0,12,120,0,Semiurban,Personal,12.74,11-11-2022,Fully Paid
+LN100693,Male,Yes,0,Graduate,No,6092,6002,42,60,1,Semiurban,Personal,16.19,11-01-2023,Charged Off
+LN100694,Male,Yes,3+,Graduate,No,4896,3230,23,360,,Urban,Home,13.47,16-03-2024,Charged Off
+LN100695,Female,Yes,0,Graduate,No,4358,4462,29,84,1,Semiurban,Personal,13.83,24-05-2024,Fully Paid
+LN100696,Male,Yes,1,Not Graduate,No,3538,0,5,360,1,Semiurban,Medical,12.03,17-06-2023,Charged Off
+LN100697,Female,Yes,0,Graduate,No,7686,2371,29,180,1,Semiurban,Education,5.74,20-03-2024,Current
+LN100698,Male,No,2,Not Graduate,Yes,6020,5084,9,300,1,Semiurban,Personal,7.34,24-02-2023,Fully Paid
+LN100699,Male,Yes,2,Graduate,,10253,0,27,360,1,Semiurban,Auto,12.59,31-01-2023,Fully Paid
+LN100700,Male,No,0,Graduate,No,3407,0,7,120,,Semiurban,Auto,10.96,06-06-2023,Charged Off
+LN100701,Male,Yes,,Graduate,Yes,6197,2986,16,120,1,Urban,Personal,12.54,06-07-2022,Fully Paid
+LN100702,Male,Yes,0,Graduate,No,7672,0,24,120,1,Urban,Business,16.87,07-10-2023,Fully Paid
+LN100703,Male,Yes,0,Not Graduate,No,5609,2930,27,180,1,Urban,Education,13.54,02-02-2022,Current
+LN100704,Male,Yes,2,Not Graduate,No,6993,0,6,240,1,Semiurban,Business,15.41,10-03-2022,Fully Paid
+LN100705,,Yes,2,Not Graduate,No,3547,6188,24,300,1,Rural,Home,11.33,15-08-2023,Fully Paid
+LN100706,Male,Yes,0,Graduate,No,6060,2275,15,120,1,Semiurban,Home,8.17,10-07-2022,Current
+LN100707,Female,Yes,0,Graduate,No,5179,5618,21,360,1,Urban,Home,10.8,11-04-2022,Fully Paid
+LN100708,Male,Yes,0,Graduate,No,9858,4678,44,300,1,Rural,Auto,8.18,30-04-2023,Fully Paid
+LN100709,Female,No,0,Not Graduate,No,7496,0,12,180,1,Rural,Education,16.45,12-10-2022,Fully Paid
+LN100710,Female,Yes,2,Graduate,No,9345,2040,38,120,1,Rural,Home,13.77,03-01-2024,Fully Paid
+LN100711,Female,Yes,0,Graduate,No,10676,4411,19,120,1,Semiurban,Home,12.82,25-01-2023,Fully Paid
+LN100712,Male,No,0,Graduate,No,5888,0,15,240,0,Rural,Business,15.33,19-07-2023,Charged Off
+LN100713,Male,Yes,0,Graduate,No,7382,0,19,180,1,Urban,Business,5,09-06-2022,Fully Paid
+LN100714,Male,Yes,0,Not Graduate,No,4743,0,7,240,1,Urban,Personal,13.06,10-06-2024,Fully Paid
+LN100715,Female,,0,Graduate,No,8087,2810,18,360,1,Urban,Personal,6.41,08-07-2023,Current
+LN100716,Female,Yes,1,Graduate,No,8511,1442,30,300,1,Semiurban,Personal,10.97,16-02-2022,Fully Paid
+LN100717,Female,No,,Graduate,,7888,0,23,180,1,Urban,Education,9.91,08-06-2022,Current
+LN100718,Male,,2,Graduate,No,5885,1022,12,240,1,Semiurban,Business,13.32,22-03-2023,Fully Paid
+LN100719,Female,Yes,0,Graduate,No,13117,0,29,360,1,Semiurban,Home,11.8,27-11-2023,Fully Paid
+LN100720,Female,Yes,3+,Graduate,No,7134,1856,9,60,1,Urban,Education,15.71,28-01-2024,Fully Paid
+LN100721,Male,Yes,2,Not Graduate,Yes,18677,1221,27,360,1,Rural,Education,8.89,07-06-2023,Fully Paid
+LN100722,Male,Yes,2,Not Graduate,No,4752,0,10,300,1,Urban,Personal,13.48,28-10-2023,Fully Paid
+LN100723,Female,Yes,0,Graduate,No,8804,3800,13,240,1,Urban,Personal,11.57,02-01-2024,Charged Off
+LN100724,Male,No,0,Graduate,No,9968,2100,37,240,1,Rural,Personal,5.28,04-06-2022,Fully Paid
+LN100725,Female,Yes,0,Not Graduate,Yes,4784,0,13,60,1,Urban,Home,7.78,05-12-2022,Fully Paid
+LN100726,Male,Yes,0,Graduate,No,6459,6061,42,120,1,Semiurban,Personal,10.48,31-12-2022,Fully Paid
+LN100727,Female,,0,Graduate,No,4201,6313,28,84,0,Rural,Home,14.89,05-03-2024,Fully Paid
+LN100728,Male,No,0,Graduate,No,10831,5671,55,360,1,Rural,Home,12.62,30-11-2023,Fully Paid
+LN100729,Male,Yes,0,Graduate,No,6839,0,16,360,1,Rural,Home,6.91,28-07-2023,Fully Paid
+LN100730,Male,Yes,2,Graduate,Yes,5187,5791,27,120,1,Urban,Auto,10.51,28-05-2022,Charged Off
+LN100731,Female,Yes,0,Not Graduate,Yes,10016,0,34,360,1,Semiurban,Education,18.06,17-06-2024,Fully Paid
+LN100732,Female,Yes,0,Graduate,No,7065,1790,22,300,1,Urban,Personal,11.39,24-05-2022,Fully Paid
+LN100733,Male,Yes,3+,Graduate,No,9503,0,,120,1,Urban,Auto,9.85,13-04-2022,Fully Paid
+LN100734,Male,Yes,3+,Graduate,No,8272,1649,27,180,1,Urban,Auto,12.72,22-03-2024,Current
+LN100735,Female,No,2,Graduate,Yes,4950,0,16,60,1,Urban,Personal,13.67,03-04-2022,Charged Off
+LN100736,Male,Yes,,Graduate,No,5816,6403,36,300,1,Rural,Education,9.4,13-10-2022,Fully Paid
+LN100737,Female,Yes,0,Graduate,No,5236,2042,17,240,1,Urban,Education,12.76,28-02-2023,Current
+LN100738,Male,Yes,3+,Graduate,No,4645,1764,17,120,1,Semiurban,Personal,9.85,29-04-2022,Charged Off
+LN100739,Male,Yes,0,Graduate,No,3852,2208,21,360,0,Semiurban,Personal,13.52,29-01-2022,Charged Off
+LN100740,Male,No,0,Not Graduate,No,14149,5343,20,360,1,Semiurban,Business,11.59,26-05-2023,Fully Paid
+LN100741,Male,No,0,Not Graduate,Yes,7836,2692,27,360,,Rural,Business,12.69,30-01-2022,Charged Off
+LN100742,Female,No,0,Graduate,Yes,8253,5484,22,300,,Urban,Home,8.34,21-05-2024,Fully Paid
+LN100743,Male,Yes,0,Graduate,,10434,3593,35,240,,Semiurban,Home,8.13,01-01-2023,Fully Paid
+LN100744,Male,Yes,1,Graduate,No,5796,4189,24,300,0,Semiurban,Personal,14.31,10-03-2024,Charged Off
+LN100745,Female,Yes,2,Graduate,Yes,-4301,0,5,180,1,Urban,Education,10.72,18-05-2022,Fully Paid
+LN100746,Male,Yes,1,Graduate,No,9194,0,12,84,1,Semiurban,Home,12,20-04-2023,Fully Paid
+LN100747,Male,Yes,0,Graduate,Yes,4530,1339,15,300,1,Rural,Business,9.93,17-07-2023,Fully Paid
+LN100748,Female,No,2,Graduate,No,9114,2124,13,240,1,Urban,Home,14.15,27-01-2023,Fully Paid
+LN100749,Female,Yes,1,Not Graduate,No,4087,0,6,240,0,Urban,Medical,8.87,11-03-2023,Fully Paid
+LN100750,Male,Yes,0,Not Graduate,No,4422,1952,19,360,,Urban,Auto,10.53,14-03-2024,Fully Paid
+LN100751,Female,Yes,1,Not Graduate,No,5597,1027,11,180,1,Rural,Auto,13.75,22-08-2022,Fully Paid
+LN100752,Female,Yes,0,Graduate,No,8988,0,19,180,1,Semiurban,Home,15.11,24-02-2022,Fully Paid
+LN100753,Male,Yes,0,Graduate,No,12431,1325,46,360,1,Semiurban,Home,9.17,19-10-2022,Fully Paid
+LN100754,Male,,3+,Graduate,No,8248,2761,16,240,1,Semiurban,Personal,17.86,22-01-2024,Fully Paid
+LN100755,Female,No,0,Graduate,No,5673,5457,21,360,1,Rural,Home,12.1,08-11-2022,Fully Paid
+LN100756,Female,No,0,Graduate,Yes,9807,3677,33,120,1,Rural,Education,7.35,02-07-2023,Fully Paid
+LN100757,Male,Yes,3+,Graduate,No,4048,2097,17,360,0,Rural,Education,12.29,30-03-2022,Fully Paid
+LN100758,Female,Yes,1,Graduate,No,5041,2079,23,120,1,Rural,Home,9.66,31-07-2022,Charged Off
+LN100759,Female,Yes,0,Not Graduate,,7308,0,24,120,0,Semiurban,Home,12.52,14-11-2022,Charged Off
+LN100760,Male,Yes,0,Graduate,No,9306,0,27,60,1,Semiurban,Auto,10.85,26-05-2024,Fully Paid
+LN100761,Male,No,0,Graduate,,6576,0,9,300,0,Rural,Home,11.26,27-01-2024,Charged Off
+LN100762,Male,Yes,1,Graduate,No,6327,2593,8,240,1,Rural,Home,7.81,10-04-2023,Charged Off
+LN100763,Female,Yes,0,Graduate,No,6459,0,12,180,0,Urban,Personal,14.47,28-03-2022,Fully Paid
+LN100764,Male,Yes,0,Graduate,No,10399,4713,18,360,1,Urban,Medical,6.95,13-02-2023,Current
+LN100765,Male,Yes,3+,Graduate,,5353,2518,21,300,1,Rural,Education,7.12,28-08-2022,Fully Paid
+LN100766,Female,No,0,Graduate,No,4926,5531,27,84,1,Urban,Home,12.29,11-04-2024,Fully Paid
+LN100767,Female,Yes,0,Graduate,Yes,6423,2471,8,84,,Rural,Personal,16.61,01-12-2023,Charged Off
+LN100768,Male,Yes,0,Graduate,No,10945,3305,44,360,1,Semiurban,Business,9.77,26-02-2022,Charged Off
+LN100769,Female,Yes,1,Graduate,No,5564,0,8,240,1,Urban,Auto,13.45,23-04-2022,Fully Paid
+LN100770,Male,Yes,0,Graduate,Yes,6451,0,13,300,1,Urban,Personal,14.76,05-01-2024,Fully Paid
+LN100771,Female,No,0,Not Graduate,No,4026,1660,15,360,1,Urban,Education,13.85,11-03-2022,Fully Paid
+LN100772,Male,No,2,Graduate,No,6547,3130,19,120,0,Urban,Personal,9.91,09-01-2024,Fully Paid
+LN100773,Male,No,0,Graduate,No,7698,0,15,240,1,Semiurban,Home,7.18,07-02-2024,Fully Paid
+LN100774,Female,No,0,Graduate,No,4532,0,4,120,1,Semiurban,Auto,5,23-11-2023,Fully Paid
+LN100775,M,Yes,0,Not Graduate,No,10406,1368,22,120,,Rural,Auto,10.08,03-07-2022,Charged Off
+LN100776,Male,No,0,Not Graduate,Yes,7663,5360,37,180,0,Semiurban,Medical,15.12,04-12-2023,Charged Off
+LN100777,Female,Yes,0,Graduate,No,5862,0,19,300,0,Semiurban,Home,7.07,14-01-2024,Charged Off
+LN100778,Female,Yes,0,Graduate,No,7683,0,15,360,1,Semiurban,Home,13.45,03-10-2022,Fully Paid
+LN100779,Female,No,0,Not Graduate,No,8425,0,16,300,1,Semiurban,Personal,7.67,21-08-2022,Fully Paid
+LN100780,Female,Yes,0,Graduate,Yes,3682,0,10,240,1,Semiurban,Auto,11.37,23-02-2022,Fully Paid
+LN100781,Male,No,2,Graduate,No,7790,3045,36,120,1,Urban,Auto,13.48,14-09-2022,Charged Off
+LN100782,Male,Yes,,Graduate,No,10797,2109,20,300,1,Urban,Home,8.69,31-03-2022,Fully Paid
+LN100783,Male,Yes,2,Not Graduate,No,5328,0,11,180,1,Urban,Home,11.6,08-01-2024,Fully Paid
+LN100784,Male,No,2,Not Graduate,No,5905,1187,21,360,1,Urban,Personal,9.55,29-01-2024,Fully Paid
+LN100785,Female,No,0,Graduate,No,6247,1081,18,84,1,Semiurban,Education,13.47,25-10-2023,Fully Paid
+LN100786,Female,Yes,3+,Graduate,No,9345,0,10,120,0,Urban,Business,11.82,11-03-2023,Charged Off
+LN100787,Male,Yes,0,Graduate,No,4788,1257,15,180,1,Rural,Personal,11.2,17-09-2023,Fully Paid
+LN100788,Male,Yes,3+,Graduate,No,8283,0,11,300,1,Rural,Auto,16.45,12-02-2023,Current
+LN100789,Female,Yes,,Not Graduate,No,6288,3241,21,84,,Rural,Personal,13.32,26-09-2022,Charged Off
+LN100790,Male,Yes,1,Graduate,Yes,12660,0,28,360,1,Rural,Auto,8.58,31-10-2023,Fully Paid
+LN100791,Female,No,,Graduate,,6417,3681,32,60,1,Urban,Education,10.7,01-01-2023,Fully Paid
+LN100792,Male,Yes,1,Graduate,Yes,3112,0,6,240,,Semiurban,Business,10.73,08-05-2024,Fully Paid
+LN100793,Female,No,0,Graduate,No,8846,0,14,84,,Urban,Home,11.28,17-12-2022,Current
+LN100794,Male,Yes,0,Graduate,No,8130,2555,15,120,1,Rural,Personal,19.84,26-10-2022,Fully Paid
+LN100795,Female,Yes,1,Graduate,No,7545,2936,33,120,1,Rural,Home,12.3,08-06-2022,Fully Paid
+LN100796,Female,No,0,Graduate,No,10685,2133,16,60,1,Rural,Personal,5,02-05-2023,Charged Off
+LN100797,Male,Yes,1,Graduate,No,3845,3249,14,60,1,Semiurban,Education,9.1,21-04-2024,Fully Paid
+LN100798,Female,Yes,,Graduate,Yes,5066,5086,13,120,1,Rural,Home,5,07-01-2024,Charged Off
+LN100799,Female,Yes,0,Graduate,No,6980,2071,26,120,1,Urban,Medical,9.85,10-06-2023,Fully Paid
+LN100800,Female,No,2,Graduate,Yes,7401,2431,20,120,1,Urban,Home,5,21-12-2022,Charged Off
+LN100801,Male,No,3+,Not Graduate,Yes,6621,1700,15,120,1,Rural,Auto,7.95,13-09-2023,Fully Paid
+LN100802,Male,Yes,3+,Not Graduate,No,4046,4355,15,180,1,Semiurban,Medical,5.68,05-02-2023,Fully Paid
+LN100803,Female,Yes,3+,Not Graduate,No,5925,2898,27,84,1,Rural,Home,12.34,09-02-2023,Fully Paid
+LN100804,Male,Yes,0,Graduate,No,12311,472,29,360,1,Urban,Auto,11,06-04-2022,Charged Off
+LN100805,Female,No,,Not Graduate,No,4711,3659,23,360,1,Rural,Home,12.06,08-12-2023,Current
+LN100806,Female,No,2,Graduate,Yes,6925,2097,29,360,1,Semiurban,Home,10.63,24-07-2023,Fully Paid
+LN100807,Female,Yes,0,Graduate,,8295,2514,35,300,1,Rural,Education,6.12,27-01-2023,Fully Paid
+LN100808,Male,Yes,0,Graduate,No,9244,0,16,360,1,Rural,Medical,12.8,18-12-2022,Charged Off
+LN100809,Male,Yes,1,Graduate,No,8830,678,32,300,1,Rural,Home,17.73,16-03-2024,Fully Paid
+LN100810,,No,0,Graduate,No,5776,0,5,240,1,Urban,Personal,12.43,28-10-2023,Fully Paid
+LN100811,Female,No,1,Graduate,No,5059,5139,19,300,1,Rural,Personal,9.51,30-07-2023,Fully Paid
+LN100812,Male,Yes,1,Graduate,Yes,12700,5162,57,300,1,Urban,Business,6,01-11-2023,Fully Paid
+LN100813,Female,Yes,0,Graduate,No,9579,0,15,360,1,Urban,Home,7.82,16-02-2024,Fully Paid
+LN100814,Female,Yes,1,Graduate,No,7160,4222,17,84,1,Semiurban,Auto,12.59,25-09-2023,Fully Paid
+LN100815,Male,No,2,Graduate,No,11383,0,18,240,1,Rural,Auto,14.76,15-10-2022,Fully Paid
+LN100816,Female,Yes,0,Graduate,No,4022,0,10,360,1,Semiurban,Auto,11.91,07-06-2023,Fully Paid
+LN100817,Male,No,0,Not Graduate,No,4310,6734,22,120,1,Rural,Medical,13.8,27-12-2023,Fully Paid
+LN100818,Male,Yes,0,Not Graduate,No,3138,3106,17,360,1,Semiurban,Business,13.48,11-06-2022,Fully Paid
+LN100819,Male,Yes,0,Graduate,No,7370,0,24,240,,Urban,Home,12.77,09-09-2023,Current
+LN100820,Female,Yes,3+,Graduate,No,7496,4659,32,120,1,Rural,Personal,8.7,21-10-2023,Fully Paid
+LN100821,Male,Yes,0,Graduate,No,4180,2661,9,240,1,Urban,Education,11.61,01-07-2022,Fully Paid
+LN100822,Male,Yes,1,Not Graduate,No,9450,0,31,360,,Rural,Education,8.03,29-04-2024,Charged Off
+LN100823,Male,No,0,Graduate,No,3486,0,5,120,0,Urban,Personal,11.06,03-07-2023,Current
+LN100824,Male,Yes,0,Graduate,No,7946,0,10,60,1,Semiurban,Education,12.16,23-03-2022,Fully Paid
+LN100825,Female,Yes,2,Graduate,No,8602,5337,15,120,1,Semiurban,Education,16.88,08-06-2023,Fully Paid
+LN100826,Male,Yes,1,Graduate,No,7339,8130,36,84,1,Urban,Medical,6.42,04-01-2022,Fully Paid
+LN100827,M,No,0,Graduate,No,3994,5884,11,360,1,Urban,Home,12.69,10-05-2023,Charged Off
+LN100828,Female,No,0,Not Graduate,No,10642,2122,15,240,1,Urban,Medical,16.18,09-07-2023,Fully Paid
+LN100829,Male,Yes,0,Graduate,No,5842,560,10,240,1,Urban,Personal,13.66,20-02-2022,Fully Paid
+LN100830,Male,,0,Graduate,No,5849,2498,13,360,1,Urban,Personal,13.92,18-09-2022,Fully Paid
+LN100831,Male,Yes,1,Not Graduate,No,5454,2009,18,360,1,Semiurban,Business,13.06,14-05-2022,Fully Paid
+LN100832,Male,Yes,0,Not Graduate,No,8942,2534,34,360,1,Rural,Education,15.54,22-08-2023,Fully Paid
+LN100833,Male,No,0,Graduate,No,5747,0,16,240,0,Semiurban,Education,7.19,28-12-2022,Charged Off
+LN100834,Male,No,0,Graduate,No,4565,2748,11,300,1,Rural,Education,6.15,22-07-2023,Fully Paid
+LN100835,Male,No,3+,Graduate,Yes,9859,2853,19,84,1,Semiurban,Education,10.98,05-08-2022,Charged Off
+LN100836,Female,Yes,,Not Graduate,No,6867,4182,38,180,1,Semiurban,Medical,5,27-05-2024,Fully Paid
+LN100837,Male,Yes,0,Graduate,No,9988,3152,11,240,1,Semiurban,Business,15.31,09-03-2022,Fully Paid
+LN100838,Female,No,2,Not Graduate,Yes,7048,3805,34,180,1,Semiurban,Home,15.27,13-05-2024,Fully Paid
+LN100839,Female,Yes,0,Graduate,No,5329,0,7,360,,Semiurban,Home,9.48,10-07-2023,Fully Paid
+LN100840,Male,Yes,0,Graduate,,3645,5516,31,360,0,Urban,Education,9.7,23-05-2022,Fully Paid
+LN100841,Female,Yes,2,Graduate,,7382,0,13,180,1,Rural,Home,10.75,12-12-2022,Current
+LN100842,Male,Yes,3+,Graduate,No,6252,8031,28,120,1,Rural,Personal,11.18,08-07-2023,Fully Paid
+LN100843,Female,Yes,3+,Graduate,Yes,9079,2978,33,120,1,Urban,Home,11.45,13-10-2023,Fully Paid
+LN100844,Male,No,1,Graduate,No,5656,4668,25,240,1,Rural,Personal,12.95,08-08-2023,Current
+LN100845,Male,Yes,0,Graduate,No,8033,835,15,240,1,Urban,Home,10.4,18-02-2024,Current
+LN100846,Male,Yes,2,Not Graduate,,6945,0,16,84,1,Urban,Education,14.3,13-07-2022,Fully Paid
+LN100847,,Yes,0,Graduate,No,5171,2383,21,300,1,Urban,Auto,12.56,29-10-2023,Fully Paid
+LN100848,Male,No,1,Graduate,No,5811,1421,7,180,1,Rural,Personal,8.88,03-09-2022,Current
+LN100849,Female,Yes,0,Graduate,Yes,4279,0,4,60,1,Rural,Medical,15.67,10-11-2022,Charged Off
+LN100850,Male,Yes,1,Graduate,,13047,0,27,300,,Rural,Business,6.25,31-12-2023,Fully Paid
+LN100851,Female,No,0,Graduate,No,7971,0,9,300,1,Urban,Education,10.68,19-01-2023,Fully Paid
+LN100852,Male,No,0,Graduate,No,4187,0,11,120,1,Semiurban,Home,14.38,04-02-2024,Fully Paid
+LN100853,Female,No,3+,Not Graduate,No,12782,2718,21,240,1,Semiurban,Business,8.47,28-02-2024,Fully Paid
+LN100854,Male,No,0,Graduate,No,4690,0,9,84,1,Urban,Business,12.08,04-10-2022,Fully Paid
+LN100855,Male,Yes,0,Graduate,No,5623,1673,10,300,1,Semiurban,Business,12.9,13-03-2022,Fully Paid
+LN100856,Male,No,0,Graduate,No,6410,2643,21,240,1,Urban,Home,7.99,09-05-2022,Current
+LN100857,Male,Yes,0,Graduate,No,7005,7484,16,360,0,Urban,Medical,10.75,24-12-2022,Current
+LN100858,Male,No,0,Graduate,No,8989,6689,14,60,1,Semiurban,Home,10.45,29-11-2023,Fully Paid
+LN100859,Male,No,0,Not Graduate,No,3391,0,3,180,1,Semiurban,Auto,9.07,09-06-2023,Fully Paid
+LN100860,Female,No,2,Not Graduate,No,7045,3324,35,300,1,Urban,Business,19.06,20-04-2024,Current
+LN100861,Male,No,0,Graduate,No,6295,0,7,84,,Urban,Home,8.33,08-08-2022,Charged Off
+LN100862,Male,Yes,3+,Graduate,Yes,7429,0,20,180,,Urban,Business,14.52,06-01-2022,Charged Off
+LN100863,Male,Yes,1,Graduate,No,6186,0,6,360,1,Urban,Education,9.63,21-01-2024,Fully Paid
+LN100864,Male,,0,Graduate,No,5900,1235,8,360,1,Urban,Medical,7.2,16-09-2023,Fully Paid
+LN100865,Male,No,1,Graduate,No,6671,0,15,360,1,Semiurban,Home,11.36,16-08-2022,Fully Paid
+LN100866,Male,Yes,0,Graduate,No,12504,985,28,240,1,Semiurban,Medical,13.27,17-01-2022,Fully Paid
+LN100867,Male,Yes,2,Graduate,No,5940,1410,25,240,1,Semiurban,Home,14.22,08-08-2023,Fully Paid
+LN100868,Female,Yes,0,Graduate,No,10459,1854,41,360,1,Rural,Auto,16.47,12-01-2022,Fully Paid
+LN100869,Female,No,0,Graduate,No,7317,0,21,180,1,Semiurban,Personal,21.31,21-08-2023,Fully Paid
+LN100870,Male,No,3+,Graduate,No,7195,0,17,240,1,Urban,Personal,11.88,14-05-2023,Fully Paid
+LN100871,Male,Yes,3+,Graduate,Yes,7455,0,15,180,1,Urban,Home,8.68,23-11-2023,Fully Paid
+LN100872,Female,Yes,3+,Graduate,No,8285,3468,21,120,0,Rural,Auto,12.59,26-09-2023,Charged Off
+LN100873,Male,No,0,Not Graduate,No,6100,3217,31,84,1,Urban,Home,10.07,17-12-2023,Fully Paid
+LN100874,Male,No,2,Graduate,No,10187,1675,29,240,1,Urban,Personal,14.24,17-05-2023,Fully Paid
+LN100875,Male,Yes,0,Graduate,No,8292,0,20,84,1,Urban,Home,6.46,11-03-2022,Fully Paid
+LN100876,Female,Yes,0,Graduate,No,4401,4527,13,120,1,Semiurban,Medical,19.29,18-04-2022,Fully Paid
+LN100877,Female,Yes,0,Not Graduate,No,3120,0,3,300,1,Semiurban,Home,14,20-07-2022,Fully Paid
+LN100878,Male,Yes,1,Graduate,No,12353,6659,64,180,1,Rural,Home,5.11,21-02-2022,Fully Paid
+LN100879,Male,Yes,0,Graduate,No,7539,1733,15,360,1,Rural,Home,8.52,03-07-2023,Fully Paid
+LN100880,Male,No,0,Graduate,No,4227,1430,11,360,1,Semiurban,Education,13.86,21-09-2023,Fully Paid
+LN100881,Female,No,2,Graduate,No,5937,2524,9,120,1,Urban,Home,15.12,16-09-2022,Fully Paid
+LN100882,Male,Yes,0,Not Graduate,No,9577,5494,46,60,1,Urban,Personal,6.55,27-04-2023,Fully Paid
+LN100883,Male,No,0,Graduate,No,6531,0,6,180,,Urban,Business,13.5,21-09-2022,Fully Paid
+LN100884,Female,Yes,0,Not Graduate,Yes,6740,0,21,360,1,Urban,Auto,5,30-10-2022,Fully Paid
+LN100885,Male,Yes,3+,Not Graduate,No,8920,0,11,84,1,Urban,Personal,10.69,30-07-2023,Fully Paid
+LN100886,Female,Yes,0,Not Graduate,No,7797,2697,34,60,1,Urban,Home,14.89,08-07-2023,Fully Paid
+LN100887,Male,Yes,0,Graduate,No,8512,0,24,84,0,Urban,Auto,9.07,09-07-2023,Fully Paid
+LN100888,Male,No,2,Graduate,Yes,8886,2399,14,240,1,Urban,Home,5.73,05-05-2022,Fully Paid
+LN100889,Male,,2,Graduate,No,5380,3158,20,120,1,Rural,Auto,11.51,27-09-2022,Current
+LN100890,Female,Yes,0,Graduate,No,5554,0,9,180,0,Semiurban,Home,8.88,08-05-2024,Fully Paid
+LN100891,Female,Yes,1,Graduate,Yes,5160,1266,8,300,1,Rural,Education,13.2,15-01-2024,Fully Paid
+LN100892,Female,No,2,Graduate,No,5659,0,18,360,1,Urban,Education,7.9,25-04-2023,Fully Paid
+LN100893,Male,Yes,1,Graduate,No,6648,982,14,180,1,Semiurban,Business,8.3,12-05-2022,Fully Paid
+LN100894,Female,Yes,0,Graduate,No,6819,0,13,360,0,Urban,Home,5,02-01-2022,Charged Off
+LN100895,Male,No,2,Not Graduate,Yes,11249,1118,16,240,1,Urban,Personal,11.59,25-04-2022,Fully Paid
+LN100896,Male,Yes,0,Graduate,No,7663,0,14,240,1,Urban,Home,10.44,26-04-2023,Fully Paid
+LN100897,Female,Yes,0,Not Graduate,No,6694,0,21,360,1,Rural,Auto,6.84,01-01-2022,Fully Paid
+LN100898,Male,Yes,0,Graduate,Yes,4785,1015,10,300,1,Rural,Business,11.68,27-11-2022,Fully Paid
+LN100899,Male,No,0,Not Graduate,No,6232,0,21,360,1,Urban,Education,14.59,31-07-2023,Fully Paid
+LN100900,Male,Yes,0,Graduate,Yes,12719,4038,56,180,1,Urban,Personal,10.25,29-09-2023,Fully Paid
+LN100901,Male,Yes,2,Graduate,No,12640,2262,18,360,1,Semiurban,Medical,11.94,07-02-2024,Fully Paid
+LN100902,Male,No,0,Not Graduate,Yes,6205,3798,13,120,1,Urban,Personal,11.96,26-01-2023,Current
+LN100903,Female,Yes,0,Graduate,No,3788,3830,24,180,1,Urban,Personal,6.78,13-04-2024,Fully Paid
+LN100904,Male,No,0,Not Graduate,No,5919,1553,14,360,0,Urban,Personal,18.2,23-05-2022,Charged Off
+LN100905,Female,Yes,0,Graduate,No,11296,3531,12,60,1,Semiurban,Auto,9.35,24-11-2022,Fully Paid
+LN100906,Female,No,,Graduate,,6664,4147,17,180,0,Urban,Home,13.3,28-01-2024,Fully Paid
+LN100907,Male,Yes,0,Graduate,No,8924,1706,26,240,1,Urban,Business,13.69,20-09-2023,Fully Paid
+LN100908,Male,Yes,0,Graduate,No,6936,2028,27,300,1,Urban,Education,10.51,12-01-2023,Fully Paid
+LN100909,Male,Yes,0,Graduate,No,4117,0,5,180,1,Semiurban,Home,13.12,25-03-2024,Fully Paid
+LN100910,Female,Yes,0,Graduate,No,7024,0,8,360,1,Rural,Auto,11.86,31-03-2022,Fully Paid
+LN100911,Male,No,0,Graduate,No,9359,0,31,360,,Urban,Education,6.04,18-03-2024,Fully Paid
+LN100912,Female,,1,Graduate,No,5632,3588,26,120,0,Rural,Home,9.84,11-02-2022,Fully Paid
+LN100913,Male,Yes,3+,Not Graduate,No,9268,0,,300,1,Rural,Personal,8.86,04-02-2022,Fully Paid
+LN100914,Male,Yes,0,Not Graduate,No,7182,1354,25,360,1,Rural,Business,9.38,09-05-2023,Fully Paid
+LN100915,Male,No,1,Graduate,No,9086,1339,20,240,1,Rural,Business,6.44,07-07-2023,Fully Paid
+LN100916,Male,No,2,Graduate,No,7838,2216,29,360,1,Semiurban,Medical,14.94,02-05-2024,Fully Paid
+LN100917,Female,Yes,2,Graduate,No,4890,2653,14,120,1,Rural,Business,16.61,04-05-2022,Charged Off
+LN100918,Female,Yes,0,Graduate,No,6254,2952,13,360,1,Urban,Home,14.42,26-02-2022,Current
+LN100919,Male,Yes,0,Not Graduate,No,6184,0,17,180,1,Semiurban,Education,15.45,16-03-2024,Charged Off
+LN100920,Female,No,0,Not Graduate,,5540,0,11,360,1,Rural,Business,9.79,01-04-2023,Fully Paid
+LN100921,Male,Yes,1,Graduate,No,7616,0,26,240,0,Rural,Education,8.77,23-08-2022,Charged Off
+LN100922,Female,Yes,2,Not Graduate,No,13611,0,24,180,0,Rural,Personal,8.27,31-08-2023,Charged Off
+LN100923,Female,Yes,0,Graduate,No,10192,1444,38,360,1,Rural,Personal,13.25,27-01-2023,Fully Paid
+LN100924,Male,No,0,Not Graduate,Yes,10704,2175,43,120,0,Rural,Education,11.79,07-05-2023,Fully Paid
+LN100925,Male,Yes,3+,Graduate,No,5425,0,8,240,1,Semiurban,Business,10.73,10-04-2024,Fully Paid
+LN100926,Male,Yes,2,Graduate,No,10771,0,32,240,1,Rural,Personal,15.53,09-12-2022,Fully Paid
+LN100927,Male,Yes,,Graduate,No,12117,5589,35,180,1,Semiurban,Personal,12.42,06-10-2023,Current
+LN100928,Female,Yes,2,Graduate,No,5364,2743,27,60,1,Rural,Medical,8.06,25-06-2022,Fully Paid
+LN100929,Male,Yes,0,Graduate,No,8151,0,16,360,1,Rural,Personal,8.62,21-02-2022,Fully Paid
+LN100930,Male,Yes,1,Not Graduate,No,8229,1810,28,120,0,Rural,Home,13.39,04-07-2023,Charged Off
+LN100931,Female,Yes,1,Graduate,No,6412,3149,20,360,,Semiurban,Personal,14.65,23-04-2023,Current
+LN100932,,Yes,0,Graduate,,7399,0,10,300,1,Urban,Business,12.93,04-05-2023,Fully Paid
+LN100933,M,Yes,0,Graduate,No,8376,2174,14,60,1,Urban,Auto,17.64,04-05-2024,Charged Off
+LN100934,Male,No,1,Graduate,No,6563,2362,17,240,1,Rural,Auto,16.72,05-01-2022,Fully Paid
+LN100935,Male,No,0,Graduate,No,10010,2459,35,300,1,Semiurban,Auto,12.54,26-12-2023,Fully Paid
+LN100936,Male,Yes,2,Graduate,No,4409,2489,17,300,1,Urban,Home,8.06,24-09-2023,Fully Paid
+LN100937,Female,No,1,Graduate,No,6174,3786,26,300,1,Urban,Business,6.42,17-04-2024,Fully Paid
+LN100938,Male,Yes,3+,Graduate,No,8989,4988,22,300,1,Rural,Business,9.64,30-05-2024,Fully Paid
+LN100939,Male,Yes,0,Graduate,No,13040,0,27,180,1,Rural,Home,13.64,28-07-2022,Fully Paid
+LN100940,Male,Yes,0,Graduate,No,10246,1176,11,360,1,Rural,Home,17.39,05-08-2022,Fully Paid
+LN100941,Male,Yes,1,Not Graduate,No,7344,433,23,300,1,Semiurban,Medical,12.46,20-06-2023,Charged Off
+LN100942,Female,No,0,Graduate,No,6674,1788,29,84,1,Urban,Business,15.09,08-12-2022,Fully Paid
+LN100943,Female,No,1,Graduate,No,6296,4472,20,180,1,Urban,Business,10.14,18-12-2023,Charged Off
+LN100944,Male,No,2,Graduate,No,6309,0,5,360,1,Urban,Business,13.18,05-02-2023,Fully Paid
+LN100945,Male,Yes,0,Graduate,,3637,0,5,84,1,Rural,Personal,13.88,07-04-2023,Fully Paid
+LN100946,Male,Yes,0,Graduate,No,12829,1863,38,360,1,Urban,Personal,5,08-01-2024,Fully Paid
+LN100947,Female,Yes,0,Graduate,No,6850,4403,28,60,0,Semiurban,Personal,9.55,31-12-2023,Charged Off
+LN100948,Female,Yes,0,Graduate,No,5249,4943,30,360,1,Semiurban,Home,14.32,30-07-2022,Fully Paid
+LN100949,Female,Yes,3+,Graduate,No,8105,4482,19,240,1,Semiurban,Auto,11.96,26-01-2022,Current
+LN100950,Female,Yes,2,Graduate,No,5391,0,15,360,1,Rural,Personal,6.81,09-09-2022,Fully Paid
+LN100951,Female,Yes,1,Not Graduate,Yes,9654,0,26,180,1,Urban,Personal,5,03-01-2022,Fully Paid
+LN100952,Male,Yes,1,Not Graduate,No,5306,2242,13,300,1,Rural,Personal,9.72,02-01-2022,Fully Paid
+LN100953,Female,No,0,Graduate,No,9140,1777,25,180,1,Urban,Personal,10.75,27-08-2023,Fully Paid
+LN100954,Male,,3+,Graduate,No,6264,0,8,360,,Urban,Home,7.91,02-01-2022,Fully Paid
+LN100955,Male,No,1,Not Graduate,No,7722,2371,20,300,1,Semiurban,Home,11.5,30-05-2022,Fully Paid
+LN100956,Male,Yes,1,Not Graduate,No,9395,0,30,240,1,Urban,Home,12.77,06-08-2023,Fully Paid
+LN100957,Male,Yes,2,Graduate,No,5771,5383,22,180,1,Rural,Home,13.35,04-01-2022,Current
+LN100958,Male,Yes,0,Graduate,No,9311,0,29,84,1,Semiurban,Medical,5,12-05-2023,Charged Off
+LN100959,Female,No,2,Graduate,No,3687,2069,14,120,1,Urban,Home,6.4,04-07-2023,Fully Paid
+LN100960,Male,Yes,0,Graduate,No,11753,824,17,120,1,Urban,Home,9.93,20-05-2024,Fully Paid
+LN100961,Female,Yes,0,Graduate,No,9902,7764,42,180,0,Semiurban,Personal,13,13-04-2023,Charged Off
+LN100962,Male,No,0,Graduate,No,-6767,0,15,84,1,Rural,Personal,12.71,11-03-2022,Current
+LN100963,Male,Yes,,Graduate,No,10563,4382,28,84,0,Semiurban,Home,12.65,20-07-2022,Current
+LN100964,Male,Yes,2,Graduate,No,10148,1895,14,360,1,Semiurban,Auto,9.66,04-11-2022,Fully Paid
+LN100965,Male,Yes,1,Not Graduate,No,6985,716,15,60,1,Rural,Auto,9.85,09-09-2022,Charged Off
+LN100966,Female,Yes,1,Graduate,,6959,3956,11,180,1,Semiurban,Home,8.45,14-10-2022,Fully Paid
+LN100967,Male,Yes,1,Graduate,No,5033,0,5,84,1,Urban,Home,13.69,19-10-2022,Fully Paid
+LN100968,Male,Yes,3+,Graduate,,7119,0,14,120,0,Semiurban,Medical,7.78,03-06-2022,Fully Paid
+LN100969,Male,Yes,0,Graduate,No,4075,5175,15,120,1,Semiurban,Business,13.98,13-05-2022,Fully Paid
+LN100970,Female,Yes,0,Not Graduate,No,9098,2510,38,120,1,Semiurban,Auto,11.73,01-06-2024,Fully Paid
+LN100971,Female,No,0,Graduate,No,9170,2121,20,300,,Semiurban,Home,10.84,09-08-2023,Fully Paid
+LN100972,Female,Yes,2,Graduate,No,3705,3657,21,360,0,Rural,Education,8.7,01-10-2022,Fully Paid
+LN100973,Male,Yes,2,Graduate,No,11318,3675,33,240,1,Urban,Personal,6.26,22-02-2024,Fully Paid
+LN100974,Male,Yes,0,Graduate,No,5597,4702,28,84,,Rural,Home,8.73,28-11-2023,Charged Off
+LN100975,Male,No,0,Not Graduate,No,18075,0,27,240,1,Semiurban,Education,9.84,24-05-2023,Fully Paid
+LN100976,Female,Yes,2,Graduate,Yes,7578,2545,34,180,0,Semiurban,Personal,5,19-12-2022,Fully Paid
+LN100977,Male,Yes,0,Graduate,No,11360,1443,29,300,1,Urban,Education,10.31,05-01-2022,Fully Paid
+LN100978,Male,No,1,Graduate,Yes,4978,0,15,360,0,Semiurban,Auto,14.24,20-10-2022,Fully Paid
+LN100979,Female,No,,Graduate,Yes,-6259,1651,14,360,0,Rural,Business,12.99,26-12-2022,Fully Paid
+LN100980,Male,Yes,0,Not Graduate,,5761,4613,11,300,1,Semiurban,Education,9.26,21-08-2023,Fully Paid
+LN100981,Female,No,0,Not Graduate,No,4051,2855,18,300,1,Urban,Business,11.16,02-08-2022,Fully Paid
+LN100982,Male,Yes,1,Graduate,No,4413,0,4,180,1,Semiurban,Home,9.05,10-02-2023,Fully Paid
+LN100983,Male,Yes,2,Graduate,No,6675,0,14,360,1,Urban,Business,11.52,12-03-2023,Fully Paid
+LN100984,Female,Yes,0,Not Graduate,No,8004,0,11,84,1,Rural,Home,16.39,15-01-2022,Fully Paid
+LN100985,Male,Yes,3+,Not Graduate,No,4800,3948,22,120,,Rural,Home,14.39,30-09-2022,Charged Off
+LN100986,Female,No,0,Graduate,No,6125,0,21,60,1,Urban,Personal,12.82,17-07-2023,Fully Paid
+LN100987,Male,Yes,0,Graduate,No,5381,3300,18,300,1,Rural,Personal,9.27,04-02-2024,Current
+LN100988,Male,Yes,1,Graduate,No,6832,3613,31,180,1,Rural,Business,13.62,14-02-2022,Current
+LN100989,Female,No,2,Not Graduate,No,8843,0,19,84,,Urban,Education,5.1,04-12-2023,Charged Off
+LN100990,Female,No,0,Graduate,,7252,2084,20,300,1,Semiurban,Home,10.12,26-09-2023,Fully Paid
+LN100991,Female,Yes,2,Graduate,No,5675,1043,22,240,1,Semiurban,Personal,13.04,16-02-2023,Current
+LN100992,Male,Yes,1,Graduate,No,10022,2587,40,180,0,Semiurban,Personal,13.59,06-07-2022,Fully Paid
+LN100993,Female,Yes,0,Graduate,No,7910,3402,33,180,1,Urban,Education,13.34,27-12-2023,Fully Paid
+LN100994,Male,No,0,Graduate,Yes,7328,2166,15,360,1,Urban,Auto,12.03,23-10-2023,Fully Paid
+LN100995,Male,No,2,Graduate,No,4820,1736,15,360,1,Semiurban,Auto,10.31,19-06-2022,Fully Paid
+LN100996,Female,No,0,Graduate,Yes,9627,2863,18,60,0,Urban,Business,12.88,22-12-2023,Current
+LN100997,Male,Yes,0,Graduate,No,8196,4034,24,180,1,Rural,Medical,7.66,17-08-2023,Fully Paid
+LN100998,Female,Yes,0,Graduate,No,8350,0,18,120,1,Urban,Home,8.04,05-02-2023,Fully Paid
+LN100999,Male,Yes,2,Graduate,No,6448,2972,29,120,0,Semiurban,Auto,11.22,09-12-2023,Fully Paid
