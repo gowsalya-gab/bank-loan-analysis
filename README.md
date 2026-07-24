@@ -3,7 +3,7 @@
 This project analyzes a bank loan dataset to identify the factors that influence loan approval and loan default. The analysis includes data cleaning, SQL exploration, Python visualizations, and interactive dashboards in Power BI and Excel.
 
 ## 🧰 Built With
-- **Python (Pandas)** — cleaned inconsistent labels, handled nulls, engineered features like income ratios
+- **Python (Pandas & NumPy)** — cleaned inconsistent labels, handled nulls, engineered features like income ratios
 - **MySQL** — grouped, filtered, and segmented queries to answer specific risk questions
 - **Matplotlib & Seaborn** — a 6-panel visual EDA dashboard, including a correlation heatmap and trend lines
 - **Power BI** — an interactive dashboard with DAX measures, a custom calendar table, and cross-filtering slicers
